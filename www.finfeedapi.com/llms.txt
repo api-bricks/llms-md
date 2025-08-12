@@ -53,6 +53,10 @@
 
 ## Learn
 
+- [Glossary](https://www.finfeedapi.com/learn/glossary.md)
+
+### Glossary
+
 - [Api](https://www.finfeedapi.com/learn/glossary/API.md)
 - [Etf](https://www.finfeedapi.com/learn/glossary/ETF.md)
 - [Adjusted Closing Price](https://www.finfeedapi.com/learn/glossary/adjusted-closing-price.md)
@@ -177,21 +181,32 @@
 - [Yield](https://www.finfeedapi.com/learn/glossary/yield.md)
 - [Zero Sum Game](https://www.finfeedapi.com/learn/glossary/zero-sum-game.md)
 - [Zombie Stock](https://www.finfeedapi.com/learn/glossary/zombie-stock.md)
-- [Glossary](https://www.finfeedapi.com/learn/glossary.md)
 
 ## Products
 
+- [Currencies Api](https://www.finfeedapi.com/products/currencies-api.md)
+- [Flat Files](https://www.finfeedapi.com/products/flat-files.md)
+- [Sec Api](https://www.finfeedapi.com/products/sec-api.md)
+- [Stock Api](https://www.finfeedapi.com/products/stock-api.md)
+
+### Currencies Api
+
 - [Faq](https://www.finfeedapi.com/products/currencies-api/faq.md)
 - [Pricing](https://www.finfeedapi.com/products/currencies-api/pricing.md)
-- [Currencies Api](https://www.finfeedapi.com/products/currencies-api.md)
+
+### Flat Files
+
 - [Pricing](https://www.finfeedapi.com/products/flat-files/pricing.md)
-- [Flat Files](https://www.finfeedapi.com/products/flat-files.md)
+
+### Sec Api
+
 - [Faq](https://www.finfeedapi.com/products/sec-api/faq.md)
 - [Pricing](https://www.finfeedapi.com/products/sec-api/pricing.md)
-- [Sec Api](https://www.finfeedapi.com/products/sec-api.md)
+
+### Stock Api
+
 - [Faq](https://www.finfeedapi.com/products/stock-api/faq.md)
 - [Pricing](https://www.finfeedapi.com/products/stock-api/pricing.md)
-- [Stock Api](https://www.finfeedapi.com/products/stock-api.md)
 
 ## Use Case
 

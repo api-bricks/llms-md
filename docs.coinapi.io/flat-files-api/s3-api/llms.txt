@@ -1,6 +1,0 @@
-# S3 Api
-
-- [Authentication](https://docs.coinapi.io/authentication.md)
-- [Index](https://docs.coinapi.io/index.md)
-- [Sdk](https://docs.coinapi.io/sdk.md)
-

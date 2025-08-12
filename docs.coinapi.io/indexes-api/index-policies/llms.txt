@@ -1,9 +1,0 @@
-# Index Policies
-
-- [Complaints Procedure](https://docs.coinapi.io/complaints-procedure.md)
-- [Consultation Policy](https://docs.coinapi.io/consultation-policy.md)
-- [Correction Policy](https://docs.coinapi.io/correction-policy.md)
-- [Exceptional Market Conditions](https://docs.coinapi.io/exceptional-market-conditions.md)
-- [Index](https://docs.coinapi.io/index.md)
-- [Recalculation Policy](https://docs.coinapi.io/recalculation-policy.md)
-

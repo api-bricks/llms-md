@@ -1,5 +1,0 @@
-# Flat Files Api
-
-- [Estimation For Flat Files](https://docs.coinapi.io/estimation-for-flat-files.md)
-- [Index](https://docs.coinapi.io/index.md)
-

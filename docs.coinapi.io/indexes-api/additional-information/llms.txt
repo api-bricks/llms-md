@@ -1,4 +1,0 @@
-# Additional Information
-
-- [Contact Information](https://docs.coinapi.io/contact-information.md)
-

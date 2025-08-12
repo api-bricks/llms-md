@@ -1,8 +1,0 @@
-# Trades
-
-- [Coinapi Market Data Rest Api](https://docs.coinapi.io/coinapi-market-data-rest-api.md)
-- [Historical Data](https://docs.coinapi.io/historical-data.md)
-- [Index](https://docs.coinapi.io/index.md)
-- [Latest Data By Symbol Id](https://docs.coinapi.io/latest-data-by-symbol-id.md)
-- [Latest Data](https://docs.coinapi.io/latest-data.md)
-

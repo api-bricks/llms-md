@@ -1,7 +1,0 @@
-# Websocket
-
-- [Endpoints](https://docs.finfeedapi.com/endpoints.md)
-- [General](https://docs.finfeedapi.com/general.md)
-- [Index](https://docs.finfeedapi.com/index.md)
-- [Messages](https://docs.finfeedapi.com/messages.md)
-

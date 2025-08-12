@@ -181,6 +181,10 @@
 
 ## Learn
 
+- [Glossary](https://www.coinapi.io/learn/glossary.md)
+
+### Glossary
+
 - [51 Attack](https://www.coinapi.io/learn/glossary/51-attack.md)
 - [Adjusted Delta](https://www.coinapi.io/learn/glossary/adjusted-delta.md)
 - [Adjusted Free Float Supply](https://www.coinapi.io/learn/glossary/adjusted-free-float-supply.md)
@@ -514,7 +518,6 @@
 - [Zkml](https://www.coinapi.io/learn/glossary/zkml.md)
 - [Zkoracle](https://www.coinapi.io/learn/glossary/zkoracle.md)
 - [Zomma](https://www.coinapi.io/learn/glossary/zomma.md)
-- [Glossary](https://www.coinapi.io/learn/glossary.md)
 
 ## Market Data Api
 
@@ -522,27 +525,48 @@
 
 ## Products
 
+- [Ems Api](https://www.coinapi.io/products/ems-api.md)
+- [Exchange Link](https://www.coinapi.io/products/exchange-link.md)
+- [Exchange Rates Api](https://www.coinapi.io/products/exchange-rates-api.md)
+- [Flat Files](https://www.coinapi.io/products/flat-files.md)
+- [Indexes Api](https://www.coinapi.io/products/indexes-api.md)
+- [Market Data Api](https://www.coinapi.io/products/market-data-api.md)
+
+### Ems Api
+
 - [Faq](https://www.coinapi.io/products/ems-api/faq.md)
 - [Pricing](https://www.coinapi.io/products/ems-api/pricing.md)
-- [Ems Api](https://www.coinapi.io/products/ems-api.md)
+
+### Exchange Link
+
 - [Faq](https://www.coinapi.io/products/exchange-link/faq.md)
 - [Pricing](https://www.coinapi.io/products/exchange-link/pricing.md)
-- [Exchange Link](https://www.coinapi.io/products/exchange-link.md)
+
+### Exchange Rates Api
+
 - [Faq](https://www.coinapi.io/products/exchange-rates-api/faq.md)
 - [Pricing](https://www.coinapi.io/products/exchange-rates-api/pricing.md)
-- [Exchange Rates Api](https://www.coinapi.io/products/exchange-rates-api.md)
+
+### Flat Files
+
 - [Faq](https://www.coinapi.io/products/flat-files/faq.md)
 - [Pricing](https://www.coinapi.io/products/flat-files/pricing.md)
-- [Flat Files](https://www.coinapi.io/products/flat-files.md)
+
+### Indexes Api
+
 - [Faq](https://www.coinapi.io/products/indexes-api/faq.md)
 - [Pricing](https://www.coinapi.io/products/indexes-api/pricing.md)
 - [Tutorials](https://www.coinapi.io/products/indexes-api/tutorials.md)
-- [Indexes Api](https://www.coinapi.io/products/indexes-api.md)
+
+### Market Data Api
+
 - [Faq](https://www.coinapi.io/products/market-data-api/faq.md)
 - [Pricing](https://www.coinapi.io/products/market-data-api/pricing.md)
 - [Technicaltest](https://www.coinapi.io/products/market-data-api/technicaltest.md)
+
+#### Tutorials
+
 - [Price Trend Analysis With Volatility Indicators Using Coinapi](https://www.coinapi.io/products/market-data-api/tutorials/price-trend-analysis-with-volatility-indicators-using-coinapi.md)
-- [Market Data Api](https://www.coinapi.io/products/market-data-api.md)
 
 ## Use Case
 

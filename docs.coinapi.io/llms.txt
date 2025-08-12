@@ -13,6 +13,8 @@
 
 ## Assets
 
+### Files
+
 - [Assets E38C7F10Fd1C9D443615E2A3C64B8497](https://docs.coinapi.io/assets/files/assets-e38c7f10fd1c9d443615e2a3c64b8497.md)
 - [Exchanges 6A031337Aeeb65Dcdff038A8Edd02604](https://docs.coinapi.io/assets/files/exchanges-6a031337aeeb65dcdff038a8edd02604.md)
 
@@ -26,17 +28,31 @@
 
 ## Cdn Cgi
 
+### L
+
 - [Email Protection](https://docs.coinapi.io/cdn-cgi/l/email-protection.md)
 
 ## Ems Api
 
 - [Api Limits And Billing Metrics](https://docs.coinapi.io/ems-api/api-limits-and-billing-metrics.md)
 - [Authentication](https://docs.coinapi.io/ems-api/authentication.md)
+- [Fix](https://docs.coinapi.io/ems-api/fix.md)
+- [Index](https://docs.coinapi.io/ems-api/index.md)
+- [Sor Websocket Api](https://docs.coinapi.io/ems-api/sor-websocket-api.md)
+- [Understanding Execution Quality](https://docs.coinapi.io/ems-api/understanding-execution-quality.md)
+- [Websocket](https://docs.coinapi.io/ems-api/websocket.md)
+
+### Fix
+
 - [Index](https://docs.coinapi.io/ems-api/fix/index.md)
 - [Messages](https://docs.coinapi.io/ems-api/fix/messages.md)
-- [Fix](https://docs.coinapi.io/ems-api/fix.md)
+
+### How To Guides
+
 - [Trading Essentials Quickstart](https://docs.coinapi.io/ems-api/how-to-guides/trading-essentials-quickstart.md)
-- [Index](https://docs.coinapi.io/ems-api/index.md)
+
+### Managed Cloud Rest Api
+
 - [Account](https://docs.coinapi.io/ems-api/managed-cloud-rest-api/account.md)
 - [Certificate](https://docs.coinapi.io/ems-api/managed-cloud-rest-api/certificate.md)
 - [Delete Account All](https://docs.coinapi.io/ems-api/managed-cloud-rest-api/delete-account-all.md)
@@ -51,6 +67,9 @@
 - [Locations](https://docs.coinapi.io/ems-api/managed-cloud-rest-api/locations.md)
 - [Managed Cloud Rest Api](https://docs.coinapi.io/ems-api/managed-cloud-rest-api/managed-cloud-rest-api.md)
 - [Persist Account](https://docs.coinapi.io/ems-api/managed-cloud-rest-api/persist-account.md)
+
+### Rest Api
+
 - [Balances](https://docs.coinapi.io/ems-api/rest-api/balances.md)
 - [Cancel All Orders Request](https://docs.coinapi.io/ems-api/rest-api/cancel-all-orders-request.md)
 - [Cancel Order Request](https://docs.coinapi.io/ems-api/rest-api/cancel-order-request.md)
@@ -63,25 +82,32 @@
 - [Positions](https://docs.coinapi.io/ems-api/rest-api/positions.md)
 - [Rest Api](https://docs.coinapi.io/ems-api/rest-api/rest-api.md)
 - [Send New Order](https://docs.coinapi.io/ems-api/rest-api/send-new-order.md)
-- [Sor Websocket Api](https://docs.coinapi.io/ems-api/sor-websocket-api.md)
-- [Understanding Execution Quality](https://docs.coinapi.io/ems-api/understanding-execution-quality.md)
+
+### Websocket
+
 - [Index](https://docs.coinapi.io/ems-api/websocket/index.md)
 - [Messages](https://docs.coinapi.io/ems-api/websocket/messages.md)
-- [Websocket](https://docs.coinapi.io/ems-api/websocket.md)
 
 ## Exchange Rates Api
 
 - [Authentication](https://docs.coinapi.io/exchange-rates-api/authentication.md)
+- [How To Guides](https://docs.coinapi.io/exchange-rates-api/how-to-guides.md)
+- [Index](https://docs.coinapi.io/exchange-rates-api/index.md)
+- [Jsonrpc Api](https://docs.coinapi.io/exchange-rates-api/jsonrpc-api.md)
+- [Mcp](https://docs.coinapi.io/exchange-rates-api/mcp.md)
+- [Websocket](https://docs.coinapi.io/exchange-rates-api/websocket.md)
+
+### How To Guides
+
 - [Acquire Exchange Rates With Different Programming Languages](https://docs.coinapi.io/exchange-rates-api/how-to-guides/acquire-exchange-rates-with-different-programming-languages.md)
 - [Build Cryptocurrency Portfolio Tracker Using React](https://docs.coinapi.io/exchange-rates-api/how-to-guides/build-cryptocurrency-portfolio-tracker-using-react.md)
 - [Creating Historical Crypto Price Chart Using Coinapi And D3 Js](https://docs.coinapi.io/exchange-rates-api/how-to-guides/creating-historical-crypto-price-chart-using-CoinAPI-and-D3-js.md)
 - [Fetching Market Data With Knime](https://docs.coinapi.io/exchange-rates-api/how-to-guides/fetching-market-data-with-knime.md)
 - [Import Data To Google Sheets Excel](https://docs.coinapi.io/exchange-rates-api/how-to-guides/import-data-to-google-sheets-excel.md)
 - [Index](https://docs.coinapi.io/exchange-rates-api/how-to-guides/index.md)
-- [How To Guides](https://docs.coinapi.io/exchange-rates-api/how-to-guides.md)
-- [Index](https://docs.coinapi.io/exchange-rates-api/index.md)
-- [Jsonrpc Api](https://docs.coinapi.io/exchange-rates-api/jsonrpc-api.md)
-- [Mcp](https://docs.coinapi.io/exchange-rates-api/mcp.md)
+
+### Rest Api Historical
+
 - [Exchange Rates Historical Rest Api](https://docs.coinapi.io/exchange-rates-api/rest-api-historical/exchange-rates-historical-rest-api.md)
 - [Exchange Rates](https://docs.coinapi.io/exchange-rates-api/rest-api-historical/exchange-rates.md)
 - [Get All Current Rates](https://docs.coinapi.io/exchange-rates-api/rest-api-historical/get-all-current-rates.md)
@@ -92,6 +118,9 @@
 - [Metadata](https://docs.coinapi.io/exchange-rates-api/rest-api-historical/metadata.md)
 - [Timeseries Data](https://docs.coinapi.io/exchange-rates-api/rest-api-historical/timeseries-data.md)
 - [Timeseries Periods](https://docs.coinapi.io/exchange-rates-api/rest-api-historical/timeseries-periods.md)
+
+### Rest Api Realtime
+
 - [Exchange Rates Realtime Rest Api](https://docs.coinapi.io/exchange-rates-api/rest-api-realtime/exchange-rates-realtime-rest-api.md)
 - [Exchange Rates](https://docs.coinapi.io/exchange-rates-api/rest-api-realtime/exchange-rates.md)
 - [Get All Current Rates](https://docs.coinapi.io/exchange-rates-api/rest-api-realtime/get-all-current-rates.md)
@@ -100,21 +129,31 @@
 - [List All Assets By Asset Id](https://docs.coinapi.io/exchange-rates-api/rest-api-realtime/list-all-assets-by-asset-id.md)
 - [List All Assets](https://docs.coinapi.io/exchange-rates-api/rest-api-realtime/list-all-assets.md)
 - [Metadata](https://docs.coinapi.io/exchange-rates-api/rest-api-realtime/metadata.md)
+
+### Websocket
+
 - [Endpoints](https://docs.coinapi.io/exchange-rates-api/websocket/endpoints.md)
 - [General](https://docs.coinapi.io/exchange-rates-api/websocket/general.md)
 - [Index](https://docs.coinapi.io/exchange-rates-api/websocket/index.md)
 - [Messages](https://docs.coinapi.io/exchange-rates-api/websocket/messages.md)
-- [Websocket](https://docs.coinapi.io/exchange-rates-api/websocket.md)
 
 ## Flat Files Api
 
 - [Billing](https://docs.coinapi.io/flat-files-api/billing.md)
+- [Data Types](https://docs.coinapi.io/flat-files-api/data-types.md)
+- [Index](https://docs.coinapi.io/flat-files-api/index.md)
+- [S3 Api](https://docs.coinapi.io/flat-files-api/s3-api.md)
+- [Snowflake](https://docs.coinapi.io/flat-files-api/snowflake.md)
+
+### Data Types
+
 - [Index](https://docs.coinapi.io/flat-files-api/data-types/index.md)
 - [Limitbook](https://docs.coinapi.io/flat-files-api/data-types/limitbook.md)
 - [Quotes](https://docs.coinapi.io/flat-files-api/data-types/quotes.md)
 - [Trades](https://docs.coinapi.io/flat-files-api/data-types/trades.md)
-- [Data Types](https://docs.coinapi.io/flat-files-api/data-types.md)
-- [Index](https://docs.coinapi.io/flat-files-api/index.md)
+
+### Rest Api
+
 - [Account Balance](https://docs.coinapi.io/flat-files-api/rest-api/account-balance.md)
 - [Add Datastore Endpoint](https://docs.coinapi.io/flat-files-api/rest-api/add-datastore-endpoint.md)
 - [Calculate Price For The Order](https://docs.coinapi.io/flat-files-api/rest-api/calculate-price-for-the-order.md)
@@ -133,10 +172,15 @@
 - [Metadata](https://docs.coinapi.io/flat-files-api/rest-api/metadata.md)
 - [Orders](https://docs.coinapi.io/flat-files-api/rest-api/orders.md)
 - [Push Api](https://docs.coinapi.io/flat-files-api/rest-api/push-api.md)
+
+### S3 Api
+
 - [Authentication](https://docs.coinapi.io/flat-files-api/s3-api/authentication.md)
 - [Index](https://docs.coinapi.io/flat-files-api/s3-api/index.md)
 - [Sdk](https://docs.coinapi.io/flat-files-api/s3-api/sdk.md)
-- [S3 Api](https://docs.coinapi.io/flat-files-api/s3-api.md)
+
+### Snowflake
+
 - [Assets](https://docs.coinapi.io/flat-files-api/snowflake/assets.md)
 - [Exchange Rates](https://docs.coinapi.io/flat-files-api/snowflake/exchange-rates.md)
 - [Index Data](https://docs.coinapi.io/flat-files-api/snowflake/index-data.md)
@@ -145,13 +189,25 @@
 - [Orderbooks](https://docs.coinapi.io/flat-files-api/snowflake/orderbooks.md)
 - [Quotes](https://docs.coinapi.io/flat-files-api/snowflake/quotes.md)
 - [Trades](https://docs.coinapi.io/flat-files-api/snowflake/trades.md)
-- [Snowflake](https://docs.coinapi.io/flat-files-api/snowflake.md)
 
 ## General
 
 - [Authentication](https://docs.coinapi.io/general/authentication.md)
-- [Index](https://docs.coinapi.io/general/changelog/index.md)
 - [Changelog](https://docs.coinapi.io/general/changelog.md)
+- [Customer Portal](https://docs.coinapi.io/general/customer-portal.md)
+- [Faq](https://docs.coinapi.io/general/faq.md)
+- [Mcp Servers](https://docs.coinapi.io/general/mcp-servers.md)
+- [Roadmap](https://docs.coinapi.io/general/roadmap.md)
+- [Security](https://docs.coinapi.io/general/security.md)
+- [Throttling](https://docs.coinapi.io/general/throttling.md)
+- [Usage Credits](https://docs.coinapi.io/general/usage-credits.md)
+
+### Changelog
+
+- [Index](https://docs.coinapi.io/general/changelog/index.md)
+
+### Customer Portal
+
 - [Apikeys](https://docs.coinapi.io/general/customer-portal/APIKeys.md)
 - [Account](https://docs.coinapi.io/general/customer-portal/Account.md)
 - [Meteredusage](https://docs.coinapi.io/general/customer-portal/MeteredUsage.md)
@@ -165,7 +221,28 @@
 - [Home](https://docs.coinapi.io/general/customer-portal/home.md)
 - [Index](https://docs.coinapi.io/general/customer-portal/index.md)
 - [Subscriptions](https://docs.coinapi.io/general/customer-portal/subscriptions.md)
-- [Customer Portal](https://docs.coinapi.io/general/customer-portal.md)
+
+### Faq
+
+- [Api Access And Integration](https://docs.coinapi.io/general/faq/API-Access-and-Integration.md)
+- [Api Usage And Limits](https://docs.coinapi.io/general/faq/API-Usage-and-Limits.md)
+- [Account Management](https://docs.coinapi.io/general/faq/Account-Management.md)
+- [Billing Payment And Subscriptions](https://docs.coinapi.io/general/faq/Billing-Payment-and-Subscriptions.md)
+- [Ems Trading Api](https://docs.coinapi.io/general/faq/EMS-Trading-API.md)
+- [Enterprise Plan](https://docs.coinapi.io/general/faq/Enterprise-Plan.md)
+- [Exchange Rates Api](https://docs.coinapi.io/general/faq/Exchange-Rates-API.md)
+- [Flat Files Api](https://docs.coinapi.io/general/faq/Flat-Files-API.md)
+- [How Do I Calculate The Number Of Requests](https://docs.coinapi.io/general/faq/How-do-I-calculate-the-number-of-requests.md)
+- [Indexes Api](https://docs.coinapi.io/general/faq/Indexes-API.md)
+- [Market Data Api](https://docs.coinapi.io/general/faq/Market-Data-API.md)
+- [Node As A Service](https://docs.coinapi.io/general/faq/Node-as-a-Service.md)
+- [Security And Privacy](https://docs.coinapi.io/general/faq/Security-and-Privacy.md)
+- [Why Does Using Limit 1 Still Count As 1 Full Request](https://docs.coinapi.io/general/faq/Why-does-using-limit-1-still-count-as-1-full-request.md)
+- [General](https://docs.coinapi.io/general/faq/general.md)
+- [Index](https://docs.coinapi.io/general/faq/index.md)
+
+#### Api Access And Integration
+
 - [Can Using A Vpn Affect My Connection To Coinapi](https://docs.coinapi.io/general/faq/API-Access-and-Integration/Can-using-a-VPN-affect-my-connection-to-CoinAPI.md)
 - [How Can I Fix Certificate Validation Errors](https://docs.coinapi.io/general/faq/API-Access-and-Integration/How-can-I-fix-certificate-validation-errors.md)
 - [How Can I Troubleshoot Fix Api Logon Issues With Coinapi](https://docs.coinapi.io/general/faq/API-Access-and-Integration/How-can-I-troubleshoot-FIX-API-logon-issues-with-CoinAPI.md)
@@ -181,7 +258,9 @@
 - [Why Am I Getting An Invalid Api Key Error After Generating A New Key](https://docs.coinapi.io/general/faq/API-Access-and-Integration/Why-am-I-getting-an-invalid-API-Key-error-after-generating-a-new-key.md)
 - [Why Does My Websocket Connection Keep Disconnecting With Code 1006 And No Reason](https://docs.coinapi.io/general/faq/API-Access-and-Integration/Why-does-my-WebSocket-connection-keep-disconnecting-with-code-1006-and-no-reason.md)
 - [Index](https://docs.coinapi.io/general/faq/API-Access-and-Integration/index.md)
-- [Api Access And Integration](https://docs.coinapi.io/general/faq/API-Access-and-Integration.md)
+
+#### Api Usage And Limits
+
 - [Api Usage Limits](https://docs.coinapi.io/general/faq/API-Usage-and-Limits/API-Usage-Limits.md)
 - [How Can I Check My Historical Api Usage With Coinapi](https://docs.coinapi.io/general/faq/API-Usage-and-Limits/How-can-I-check-my-historical-API-usage-with-CoinAPI.md)
 - [How Can I Retrieve More Than 100 Items](https://docs.coinapi.io/general/faq/API-Usage-and-Limits/How-can-I-retrieve-more-than-100-items.md)
@@ -193,7 +272,9 @@
 - [Why Does Using Limit 1 Still Count As 1 Full Request](https://docs.coinapi.io/general/faq/API-Usage-and-Limits/Why-does-using-limit-1-still-count-as-1-full-request.md)
 - [Why Is My Usage So High](https://docs.coinapi.io/general/faq/API-Usage-and-Limits/Why-is-my-usage-so-high.md)
 - [Index](https://docs.coinapi.io/general/faq/API-Usage-and-Limits/index.md)
-- [Api Usage And Limits](https://docs.coinapi.io/general/faq/API-Usage-and-Limits.md)
+
+#### Account Management
+
 - [How I Can Update My Credit Card Billing Information](https://docs.coinapi.io/general/faq/Account-Management/How-I-can-update-my-credit-card-billing-information.md)
 - [How Can I Change The Team Name And Company Name](https://docs.coinapi.io/general/faq/Account-Management/How-can-I-change-the-team-name-and-company-name.md)
 - [How Can I Get An Invoice Or Receipt For My Coinapi Subscription](https://docs.coinapi.io/general/faq/Account-Management/How-can-I-get-an-invoice-or-receipt-for-my-CoinAPI-subscription.md)
@@ -203,7 +284,9 @@
 - [I Didnt Receive An Email From Coinapi](https://docs.coinapi.io/general/faq/Account-Management/I-didnt-receive-an-email-from-CoinAPI.md)
 - [What Information Do I Need To Provide In Order To Subscribe](https://docs.coinapi.io/general/faq/Account-Management/What-information-do-I-need-to-provide-in-order-to-subscribe.md)
 - [Index](https://docs.coinapi.io/general/faq/Account-Management/index.md)
-- [Account Management](https://docs.coinapi.io/general/faq/Account-Management.md)
+
+#### Billing Payment And Subscriptions
+
 - [Can I Cancel My Subscription Anytime](https://docs.coinapi.io/general/faq/Billing-Payment-and-Subscriptions/Can-I-cancel-my-subscription-anytime.md)
 - [Can I Customize My Plan](https://docs.coinapi.io/general/faq/Billing-Payment-and-Subscriptions/Can-I-customize-my-plan.md)
 - [Can I Still Use My Api Key If I Cancel My Subscription](https://docs.coinapi.io/general/faq/Billing-Payment-and-Subscriptions/Can-I-still-use-my-API-key-if-I-cancel-my-subscription.md)
@@ -219,30 +302,49 @@
 - [What Happens If We Exceed Our Credit Limit And How Do Upgrades Work On An Annual Subscription](https://docs.coinapi.io/general/faq/Billing-Payment-and-Subscriptions/What-happens-if-we-exceed-our-credit-limit-And-how-do-upgrades-work-on-an-annual-subscription.md)
 - [What Is A Billing Cycle](https://docs.coinapi.io/general/faq/Billing-Payment-and-Subscriptions/What-is-a-billing-cycle.md)
 - [Index](https://docs.coinapi.io/general/faq/Billing-Payment-and-Subscriptions/index.md)
-- [Billing Payment And Subscriptions](https://docs.coinapi.io/general/faq/Billing-Payment-and-Subscriptions.md)
+
+#### Ems Trading Api
+
 - [Index](https://docs.coinapi.io/general/faq/EMS-Trading-API/index.md)
-- [Ems Trading Api](https://docs.coinapi.io/general/faq/EMS-Trading-API.md)
+
+#### Enterprise Plan
+
 - [Index](https://docs.coinapi.io/general/faq/Enterprise-Plan/index.md)
-- [Enterprise Plan](https://docs.coinapi.io/general/faq/Enterprise-Plan.md)
+
+#### Exchange Rates Api
+
 - [Index](https://docs.coinapi.io/general/faq/Exchange-Rates-API/index.md)
-- [Exchange Rates Api](https://docs.coinapi.io/general/faq/Exchange-Rates-API.md)
+
+#### Flat Files Api
+
 - [Estimation For Flat Files](https://docs.coinapi.io/general/faq/Flat-Files-API/estimation-for-flat-files.md)
 - [Index](https://docs.coinapi.io/general/faq/Flat-Files-API/index.md)
-- [Flat Files Api](https://docs.coinapi.io/general/faq/Flat-Files-API.md)
-- [How Do I Calculate The Number Of Requests](https://docs.coinapi.io/general/faq/How-do-I-calculate-the-number-of-requests.md)
+
+#### Indexes Api
+
 - [Index](https://docs.coinapi.io/general/faq/Indexes-API/index.md)
-- [Indexes Api](https://docs.coinapi.io/general/faq/Indexes-API.md)
+
+#### Market Data Api
+
 - [Index](https://docs.coinapi.io/general/faq/Market-Data-API/index.md)
-- [Market Data Api](https://docs.coinapi.io/general/faq/Market-Data-API.md)
+
+#### Node As A Service
+
 - [Index](https://docs.coinapi.io/general/faq/Node-as-a-Service/index.md)
-- [Node As A Service](https://docs.coinapi.io/general/faq/Node-as-a-Service.md)
+
+#### Security And Privacy
+
 - [What Cdn Does The Api Use](https://docs.coinapi.io/general/faq/Security-and-Privacy/What-CDN-does-the-API-use.md)
 - [What Security Mechanisms Does Coinapi Use To Protect My Data](https://docs.coinapi.io/general/faq/Security-and-Privacy/What-security-mechanisms-does-CoinAPI-use-to-protect-my-data.md)
 - [What Should I Do If My Api Key Was Compromised](https://docs.coinapi.io/general/faq/Security-and-Privacy/What-should-I-do-if-my-API-key-was-compromised.md)
 - [Index](https://docs.coinapi.io/general/faq/Security-and-Privacy/index.md)
-- [Security And Privacy](https://docs.coinapi.io/general/faq/Security-and-Privacy.md)
-- [Why Does Using Limit 1 Still Count As 1 Full Request](https://docs.coinapi.io/general/faq/Why-does-using-limit-1-still-count-as-1-full-request.md)
+
+#### Api
+
 - [Why Are Limit Headers Not Always Showing On A Request](https://docs.coinapi.io/general/faq/api/Why-are-limit-headers-not-always-showing-on-a-request.md)
+
+#### General
+
 - [Are Subscription Payments Executed Automatically](https://docs.coinapi.io/general/faq/general/Are-subscription-payments-executed-automatically.md)
 - [Are You Planning To Add An Order Exchange Fee Feature](https://docs.coinapi.io/general/faq/general/Are-you-planning-to-add-an-order-exchange-fee-feature.md)
 - [Can I Get A Custom Plan Based On My Data Needs](https://docs.coinapi.io/general/faq/general/Can-I-get-a-custom-plan-based-on-my-data-needs.md)
@@ -270,14 +372,6 @@
 - [What Is Coinapi](https://docs.coinapi.io/general/faq/general/What-is-CoinAPI.md)
 - [What Types Of Data Does Coinapi Provide](https://docs.coinapi.io/general/faq/general/What-types-of-data-does-CoinAPI-provide.md)
 - [Index](https://docs.coinapi.io/general/faq/general/index.md)
-- [General](https://docs.coinapi.io/general/faq/general.md)
-- [Index](https://docs.coinapi.io/general/faq/index.md)
-- [Faq](https://docs.coinapi.io/general/faq.md)
-- [Mcp Servers](https://docs.coinapi.io/general/mcp-servers.md)
-- [Roadmap](https://docs.coinapi.io/general/roadmap.md)
-- [Security](https://docs.coinapi.io/general/security.md)
-- [Throttling](https://docs.coinapi.io/general/throttling.md)
-- [Usage Credits](https://docs.coinapi.io/general/usage-credits.md)
 
 ## How To Guides
 
@@ -286,58 +380,106 @@
 
 ## Indexes Api
 
-- [Contact Information](https://docs.coinapi.io/indexes-api/additional-information/contact-information.md)
 - [Conflict Of Interest Policies](https://docs.coinapi.io/indexes-api/conflict-of-interest-policies.md)
+- [Data Inputs And Sources](https://docs.coinapi.io/indexes-api/data-inputs-and-sources.md)
+- [Disclaimer](https://docs.coinapi.io/indexes-api/disclaimer.md)
+- [Index Policies](https://docs.coinapi.io/indexes-api/index-policies.md)
+- [Index](https://docs.coinapi.io/indexes-api/index.md)
+- [Introduction](https://docs.coinapi.io/indexes-api/introduction.md)
+- [Limitations Of The Indexes](https://docs.coinapi.io/indexes-api/limitations-of-the-indexes.md)
+- [Mcp](https://docs.coinapi.io/indexes-api/mcp.md)
+- [Use Of Expert Judgment](https://docs.coinapi.io/indexes-api/use-of-expert-judgment.md)
+- [Websocket Api](https://docs.coinapi.io/indexes-api/websocket-api.md)
+
+### Additional Information
+
+- [Contact Information](https://docs.coinapi.io/indexes-api/additional-information/contact-information.md)
+
+### Data Inputs And Sources
+
 - [Data Hierarchy](https://docs.coinapi.io/indexes-api/data-inputs-and-sources/data-hierarchy.md)
 - [Data Quality Controls](https://docs.coinapi.io/indexes-api/data-inputs-and-sources/data-quality-controls.md)
 - [Exchange Selection Criteria](https://docs.coinapi.io/indexes-api/data-inputs-and-sources/exchange-selection-criteria.md)
 - [Index](https://docs.coinapi.io/indexes-api/data-inputs-and-sources/index.md)
-- [Data Inputs And Sources](https://docs.coinapi.io/indexes-api/data-inputs-and-sources.md)
-- [Disclaimer](https://docs.coinapi.io/indexes-api/disclaimer.md)
+
+### Eligibility Criteria
+
 - [Asset Eligibility](https://docs.coinapi.io/indexes-api/eligibility-criteria/asset-eligibility.md)
 - [Exchange Eligibility](https://docs.coinapi.io/indexes-api/eligibility-criteria/exchange-eligibility.md)
+
+### Governance
+
 - [Index Committees](https://docs.coinapi.io/indexes-api/governance/index-committees.md)
 - [Internal Oversight](https://docs.coinapi.io/indexes-api/governance/internal-oversight.md)
 - [Methodology Review](https://docs.coinapi.io/indexes-api/governance/methodology-review.md)
+
+### Index Calculation Methodologies
+
 - [Capivix Index Methodology](https://docs.coinapi.io/indexes-api/index-calculation-methodologies/capivix-index-methodology.md)
 - [Primkt Index Methodology](https://docs.coinapi.io/indexes-api/index-calculation-methodologies/primkt-index-methodology.md)
 - [Vwap Index Methodology](https://docs.coinapi.io/indexes-api/index-calculation-methodologies/vwap-index-methodology.md)
+
+### Index Maintenance
+
 - [Corporate Action Treatment](https://docs.coinapi.io/indexes-api/index-maintenance/corporate-action-treatment.md)
 - [Rebalancing And Reconstitution](https://docs.coinapi.io/indexes-api/index-maintenance/rebalancing-and-reconstitution.md)
+
+### Index Offerings
+
 - [Capivix Index](https://docs.coinapi.io/indexes-api/index-offerings/capivix-index.md)
 - [Primkt Index](https://docs.coinapi.io/indexes-api/index-offerings/primkt-index.md)
 - [Vwap Index](https://docs.coinapi.io/indexes-api/index-offerings/vwap-index.md)
+
+### Index Policies
+
 - [Complaints Procedure](https://docs.coinapi.io/indexes-api/index-policies/complaints-procedure.md)
 - [Consultation Policy](https://docs.coinapi.io/indexes-api/index-policies/consultation-policy.md)
 - [Correction Policy](https://docs.coinapi.io/indexes-api/index-policies/correction-policy.md)
 - [Exceptional Market Conditions](https://docs.coinapi.io/indexes-api/index-policies/exceptional-market-conditions.md)
 - [Index](https://docs.coinapi.io/indexes-api/index-policies/index.md)
 - [Recalculation Policy](https://docs.coinapi.io/indexes-api/index-policies/recalculation-policy.md)
-- [Index Policies](https://docs.coinapi.io/indexes-api/index-policies.md)
-- [Index](https://docs.coinapi.io/indexes-api/index.md)
+
+### Introduction
+
 - [Governance And Oversight](https://docs.coinapi.io/indexes-api/introduction/governance-and-oversight.md)
 - [Index](https://docs.coinapi.io/indexes-api/introduction/index.md)
 - [Key Principles](https://docs.coinapi.io/indexes-api/introduction/key-principles.md)
 - [Purpose And Scope](https://docs.coinapi.io/indexes-api/introduction/purpose-and-scope.md)
 - [Quickstart](https://docs.coinapi.io/indexes-api/introduction/quickstart.md)
-- [Introduction](https://docs.coinapi.io/indexes-api/introduction.md)
-- [Limitations Of The Indexes](https://docs.coinapi.io/indexes-api/limitations-of-the-indexes.md)
-- [Mcp](https://docs.coinapi.io/indexes-api/mcp.md)
+
+### Rest Api
+
 - [Coinapi Indexes Rest Api](https://docs.coinapi.io/indexes-api/rest-api/coinapi-indexes-rest-api.md)
-- [Use Of Expert Judgment](https://docs.coinapi.io/indexes-api/use-of-expert-judgment.md)
+
+### Websocket Api
+
 - [Endpoints](https://docs.coinapi.io/indexes-api/websocket-api/endpoints.md)
 - [General](https://docs.coinapi.io/indexes-api/websocket-api/general.md)
 - [Index](https://docs.coinapi.io/indexes-api/websocket-api/index.md)
 - [Messages](https://docs.coinapi.io/indexes-api/websocket-api/messages.md)
-- [Websocket Api](https://docs.coinapi.io/indexes-api/websocket-api.md)
 
 ## Market Data
 
 - [Api Limits And Billing Metrics](https://docs.coinapi.io/market-data/api-limits-and-billing-metrics.md)
 - [Authentication](https://docs.coinapi.io/market-data/authentication.md)
+- [Fix](https://docs.coinapi.io/market-data/fix.md)
+- [How To Guides](https://docs.coinapi.io/market-data/how-to-guides.md)
+- [Index](https://docs.coinapi.io/market-data/index.md)
+- [Jsonrpc Api](https://docs.coinapi.io/market-data/jsonrpc-api.md)
+- [Latency Faq](https://docs.coinapi.io/market-data/latency-faq.md)
+- [Mcp](https://docs.coinapi.io/market-data/mcp.md)
+- [Performance Testing Guide](https://docs.coinapi.io/market-data/performance-testing-guide.md)
+- [Rest Api](https://docs.coinapi.io/market-data/rest-api.md)
+- [Websocket Ds](https://docs.coinapi.io/market-data/websocket-ds.md)
+- [Websocket](https://docs.coinapi.io/market-data/websocket.md)
+
+### Fix
+
 - [Index](https://docs.coinapi.io/market-data/fix/index.md)
 - [Messages](https://docs.coinapi.io/market-data/fix/messages.md)
-- [Fix](https://docs.coinapi.io/market-data/fix.md)
+
+### How To Guides
+
 - [Acquire Exchange Rates With Different Programming Languages](https://docs.coinapi.io/market-data/how-to-guides/acquire-exchange-rates-with-different-programming-languages.md)
 - [Build Cryptocurrency Portfolio Tracker Using React](https://docs.coinapi.io/market-data/how-to-guides/build-cryptocurrency-portfolio-tracker-using-react.md)
 - [Building A Cryptocurrency Exchange Comparison Tool Using Market Data Api](https://docs.coinapi.io/market-data/how-to-guides/building-a-cryptocurrency-exchange-comparison-tool-using-market-data-api.md)
@@ -351,16 +493,20 @@
 - [Real Time Data Visualization With Javascript](https://docs.coinapi.io/market-data/how-to-guides/real-time-data-visualization-with-javascript.md)
 - [Real Time Trades Stream Using Websocket With Different Languages](https://docs.coinapi.io/market-data/how-to-guides/real-time-trades-stream-using-websocket-with-different-languages.md)
 - [Retrieve And Analyze Crypto Order Book Data Using A Cryptocurrency Api](https://docs.coinapi.io/market-data/how-to-guides/retrieve-and-analyze-crypto-order-book-data-using-a-cryptocurrency-API.md)
-- [How To Guides](https://docs.coinapi.io/market-data/how-to-guides.md)
-- [Index](https://docs.coinapi.io/market-data/index.md)
-- [Jsonrpc Api](https://docs.coinapi.io/market-data/jsonrpc-api.md)
+
+### Latency Faq
+
 - [What Influences Latency](https://docs.coinapi.io/market-data/latency-faq/What-influences-latency.md)
 - [How To Reduce Market Data Apis Latency](https://docs.coinapi.io/market-data/latency-faq/how-to-reduce-market-data-apis-latency.md)
 - [Index](https://docs.coinapi.io/market-data/latency-faq/index.md)
-- [Latency Faq](https://docs.coinapi.io/market-data/latency-faq.md)
-- [Mcp](https://docs.coinapi.io/market-data/mcp.md)
+
+### Metadata Tables
+
 - [Introduction](https://docs.coinapi.io/market-data/metadata-tables/introduction.md)
 - [Metric Id](https://docs.coinapi.io/market-data/metadata-tables/metric_id.md)
+
+#### Supported Assets
+
 - [Assets A](https://docs.coinapi.io/market-data/metadata-tables/supported-assets/assets_A.md)
 - [Assets B](https://docs.coinapi.io/market-data/metadata-tables/supported-assets/assets_B.md)
 - [Assets C](https://docs.coinapi.io/market-data/metadata-tables/supported-assets/assets_C.md)
@@ -387,6 +533,9 @@
 - [Assets X](https://docs.coinapi.io/market-data/metadata-tables/supported-assets/assets_X.md)
 - [Assets Y](https://docs.coinapi.io/market-data/metadata-tables/supported-assets/assets_Y.md)
 - [Assets Z](https://docs.coinapi.io/market-data/metadata-tables/supported-assets/assets_Z.md)
+
+#### Supported Exchanges
+
 - [Exchanges A](https://docs.coinapi.io/market-data/metadata-tables/supported-exchanges/exchanges_A.md)
 - [Exchanges B](https://docs.coinapi.io/market-data/metadata-tables/supported-exchanges/exchanges_B.md)
 - [Exchanges C](https://docs.coinapi.io/market-data/metadata-tables/supported-exchanges/exchanges_C.md)
@@ -413,16 +562,33 @@
 - [Exchanges X](https://docs.coinapi.io/market-data/metadata-tables/supported-exchanges/exchanges_X.md)
 - [Exchanges Y](https://docs.coinapi.io/market-data/metadata-tables/supported-exchanges/exchanges_Y.md)
 - [Exchanges Z](https://docs.coinapi.io/market-data/metadata-tables/supported-exchanges/exchanges_Z.md)
-- [Performance Testing Guide](https://docs.coinapi.io/market-data/performance-testing-guide.md)
+
+### Rest Api
+
+- [Exchange Rates](https://docs.coinapi.io/market-data/rest-api/exchange-rates.md)
+- [Index](https://docs.coinapi.io/market-data/rest-api/index.md)
+- [Indexes](https://docs.coinapi.io/market-data/rest-api/indexes.md)
+- [Metadata](https://docs.coinapi.io/market-data/rest-api/metadata.md)
+- [Metricsv1](https://docs.coinapi.io/market-data/rest-api/metricsv1.md)
+- [Metricsv2](https://docs.coinapi.io/market-data/rest-api/metricsv2.md)
+- [Ohlcv](https://docs.coinapi.io/market-data/rest-api/ohlcv.md)
+- [Options](https://docs.coinapi.io/market-data/rest-api/options.md)
+- [Order Book L3](https://docs.coinapi.io/market-data/rest-api/order-book-l3.md)
+- [Order Book](https://docs.coinapi.io/market-data/rest-api/order-book.md)
+- [Quotes](https://docs.coinapi.io/market-data/rest-api/quotes.md)
+- [Trades](https://docs.coinapi.io/market-data/rest-api/trades.md)
+
+#### Exchange Rates
+
 - [Coinapi Market Data Rest Api](https://docs.coinapi.io/market-data/rest-api/exchange-rates/coinapi-market-data-rest-api.md)
 - [Get All Current Rates](https://docs.coinapi.io/market-data/rest-api/exchange-rates/get-all-current-rates.md)
 - [Get Specific Rate](https://docs.coinapi.io/market-data/rest-api/exchange-rates/get-specific-rate.md)
 - [Index](https://docs.coinapi.io/market-data/rest-api/exchange-rates/index.md)
 - [Timeseries Data](https://docs.coinapi.io/market-data/rest-api/exchange-rates/timeseries-data.md)
 - [Timeseries Periods](https://docs.coinapi.io/market-data/rest-api/exchange-rates/timeseries-periods.md)
-- [Exchange Rates](https://docs.coinapi.io/market-data/rest-api/exchange-rates.md)
-- [Index](https://docs.coinapi.io/market-data/rest-api/index.md)
-- [Indexes](https://docs.coinapi.io/market-data/rest-api/indexes.md)
+
+#### Metadata
+
 - [Coinapi Market Data Rest Api](https://docs.coinapi.io/market-data/rest-api/metadata/coinapi-market-data-rest-api.md)
 - [Index](https://docs.coinapi.io/market-data/rest-api/metadata/index.md)
 - [List Active Symbol Mapping For The Exchange](https://docs.coinapi.io/market-data/rest-api/metadata/list-active-symbol-mapping-for-the-exchange.md)
@@ -438,7 +604,9 @@
 - [List Of Active Symbols For The Exchange](https://docs.coinapi.io/market-data/rest-api/metadata/list-of-active-symbols-for-the-exchange.md)
 - [List Of Icons For The Exchanges](https://docs.coinapi.io/market-data/rest-api/metadata/list-of-icons-for-the-exchanges.md)
 - [List Of Symbols For The Exchange](https://docs.coinapi.io/market-data/rest-api/metadata/list-of-symbols-for-the-exchange.md)
-- [Metadata](https://docs.coinapi.io/market-data/rest-api/metadata.md)
+
+#### Metricsv1
+
 - [Coinapi Market Data Rest Api](https://docs.coinapi.io/market-data/rest-api/metricsv1/coinapi-market-data-rest-api.md)
 - [Current Metrics For Given Asset](https://docs.coinapi.io/market-data/rest-api/metricsv1/current-metrics-for-given-asset.md)
 - [Current Metrics For Given Exchange](https://docs.coinapi.io/market-data/rest-api/metricsv1/current-metrics-for-given-exchange.md)
@@ -451,7 +619,9 @@
 - [Listing Of All Supported Metrics By Coin Api](https://docs.coinapi.io/market-data/rest-api/metricsv1/listing-of-all-supported-metrics-by-coin-api.md)
 - [Listing Of All Supported Metrics For Asset](https://docs.coinapi.io/market-data/rest-api/metricsv1/listing-of-all-supported-metrics-for-asset.md)
 - [Listing Of All Supported Metrics For Symbol](https://docs.coinapi.io/market-data/rest-api/metricsv1/listing-of-all-supported-metrics-for-symbol.md)
-- [Metricsv1](https://docs.coinapi.io/market-data/rest-api/metricsv1.md)
+
+#### Metricsv2
+
 - [Coinapi Market Data Rest Api](https://docs.coinapi.io/market-data/rest-api/metricsv2/coinapi-market-data-rest-api.md)
 - [Historical Metrics For The Asset](https://docs.coinapi.io/market-data/rest-api/metricsv2/historical-metrics-for-the-asset.md)
 - [Historical Metrics For The Chain](https://docs.coinapi.io/market-data/rest-api/metricsv2/historical-metrics-for-the-chain.md)
@@ -461,30 +631,40 @@
 - [Listing Of Metrics Available For Specific Asset](https://docs.coinapi.io/market-data/rest-api/metricsv2/listing-of-metrics-available-for-specific-asset.md)
 - [Listing Of Metrics Available For Specific Chain](https://docs.coinapi.io/market-data/rest-api/metricsv2/listing-of-metrics-available-for-specific-chain.md)
 - [Listing Of Metrics Available For Specific Exchange](https://docs.coinapi.io/market-data/rest-api/metricsv2/listing-of-metrics-available-for-specific-exchange.md)
-- [Metricsv2](https://docs.coinapi.io/market-data/rest-api/metricsv2.md)
+
+#### Ohlcv
+
 - [Coinapi Market Data Rest Api](https://docs.coinapi.io/market-data/rest-api/ohlcv/coinapi-market-data-rest-api.md)
 - [Historical Data By Exchange](https://docs.coinapi.io/market-data/rest-api/ohlcv/historical-data-by-exchange.md)
 - [Historical Data](https://docs.coinapi.io/market-data/rest-api/ohlcv/historical-data.md)
 - [Index](https://docs.coinapi.io/market-data/rest-api/ohlcv/index.md)
 - [Latest Data](https://docs.coinapi.io/market-data/rest-api/ohlcv/latest-data.md)
 - [List All Periods](https://docs.coinapi.io/market-data/rest-api/ohlcv/list-all-periods.md)
-- [Ohlcv](https://docs.coinapi.io/market-data/rest-api/ohlcv.md)
+
+#### Options
+
 - [Coinapi Market Data Rest Api](https://docs.coinapi.io/market-data/rest-api/options/coinapi-market-data-rest-api.md)
 - [Current Data By Exchange](https://docs.coinapi.io/market-data/rest-api/options/current-data-by-exchange.md)
 - [Index](https://docs.coinapi.io/market-data/rest-api/options/index.md)
-- [Options](https://docs.coinapi.io/market-data/rest-api/options.md)
+
+#### Order Book
+
 - [Coinapi Market Data Rest Api](https://docs.coinapi.io/market-data/rest-api/order-book/coinapi-market-data-rest-api.md)
 - [Current Depth Of The Order Book](https://docs.coinapi.io/market-data/rest-api/order-book/current-depth-of-the-order-book.md)
 - [Get Current Order Book](https://docs.coinapi.io/market-data/rest-api/order-book/get-current-order-book.md)
 - [Historical Data](https://docs.coinapi.io/market-data/rest-api/order-book/historical-data.md)
 - [Index](https://docs.coinapi.io/market-data/rest-api/order-book/index.md)
 - [Latest Data](https://docs.coinapi.io/market-data/rest-api/order-book/latest-data.md)
+
+#### Order Book L3
+
 - [Coinapi Market Data Rest Api](https://docs.coinapi.io/market-data/rest-api/order-book-l3/coinapi-market-data-rest-api.md)
 - [Current Order Book By Symbol Id](https://docs.coinapi.io/market-data/rest-api/order-book-l3/current-order-book-by-symbol-id.md)
 - [Current Order Books](https://docs.coinapi.io/market-data/rest-api/order-book-l3/current-order-books.md)
 - [Index](https://docs.coinapi.io/market-data/rest-api/order-book-l3/index.md)
-- [Order Book L3](https://docs.coinapi.io/market-data/rest-api/order-book-l3.md)
-- [Order Book](https://docs.coinapi.io/market-data/rest-api/order-book.md)
+
+#### Quotes
+
 - [Coinapi Market Data Rest Api](https://docs.coinapi.io/market-data/rest-api/quotes/coinapi-market-data-rest-api.md)
 - [Current Data](https://docs.coinapi.io/market-data/rest-api/quotes/current-data.md)
 - [Current Quotes For A Specific Symbol](https://docs.coinapi.io/market-data/rest-api/quotes/current-quotes-for-a-specific-symbol.md)
@@ -492,29 +672,43 @@
 - [Index](https://docs.coinapi.io/market-data/rest-api/quotes/index.md)
 - [Latest Data](https://docs.coinapi.io/market-data/rest-api/quotes/latest-data.md)
 - [Latest Quote Updates For A Specific Symbol](https://docs.coinapi.io/market-data/rest-api/quotes/latest-quote-updates-for-a-specific-symbol.md)
-- [Quotes](https://docs.coinapi.io/market-data/rest-api/quotes.md)
+
+#### Trades
+
 - [Coinapi Market Data Rest Api](https://docs.coinapi.io/market-data/rest-api/trades/coinapi-market-data-rest-api.md)
 - [Historical Data](https://docs.coinapi.io/market-data/rest-api/trades/historical-data.md)
 - [Index](https://docs.coinapi.io/market-data/rest-api/trades/index.md)
 - [Latest Data By Symbol Id](https://docs.coinapi.io/market-data/rest-api/trades/latest-data-by-symbol-id.md)
 - [Latest Data](https://docs.coinapi.io/market-data/rest-api/trades/latest-data.md)
-- [Trades](https://docs.coinapi.io/market-data/rest-api/trades.md)
-- [Rest Api](https://docs.coinapi.io/market-data/rest-api.md)
+
+### Websocket
+
 - [Endpoints](https://docs.coinapi.io/market-data/websocket/endpoints.md)
 - [General](https://docs.coinapi.io/market-data/websocket/general.md)
 - [Index](https://docs.coinapi.io/market-data/websocket/index.md)
 - [Messages](https://docs.coinapi.io/market-data/websocket/messages.md)
+
+### Websocket Ds
+
 - [Endpoints](https://docs.coinapi.io/market-data/websocket-ds/endpoints.md)
 - [General](https://docs.coinapi.io/market-data/websocket-ds/general.md)
 - [Index](https://docs.coinapi.io/market-data/websocket-ds/index.md)
 - [Messages](https://docs.coinapi.io/market-data/websocket-ds/messages.md)
-- [Websocket Ds](https://docs.coinapi.io/market-data/websocket-ds.md)
-- [Websocket](https://docs.coinapi.io/market-data/websocket.md)
 
 ## Naas Api
 
 - [Api Limits And Billing Metrics](https://docs.coinapi.io/naas-api/api-limits-and-billing-metrics.md)
 - [Authentication](https://docs.coinapi.io/naas-api/authentication.md)
+- [Bitcoin](https://docs.coinapi.io/naas-api/bitcoin.md)
+- [Ethereum](https://docs.coinapi.io/naas-api/ethereum.md)
+- [Index](https://docs.coinapi.io/naas-api/index.md)
+
+### Bitcoin
+
+- [Index](https://docs.coinapi.io/naas-api/bitcoin/index.md)
+
+#### Methods
+
 - [Abandontransaction X](https://docs.coinapi.io/naas-api/bitcoin/Methods/abandontransaction_x.md)
 - [Abortrescan X](https://docs.coinapi.io/naas-api/bitcoin/Methods/abortrescan_x.md)
 - [Addnode X](https://docs.coinapi.io/naas-api/bitcoin/Methods/addnode_x.md)
@@ -593,8 +787,13 @@
 - [Listlockunspent](https://docs.coinapi.io/naas-api/bitcoin/Methods/listlockunspent.md)
 - [Listsinceblock](https://docs.coinapi.io/naas-api/bitcoin/Methods/listsinceblock.md)
 - [Listtransactions](https://docs.coinapi.io/naas-api/bitcoin/Methods/listtransactions.md)
-- [Index](https://docs.coinapi.io/naas-api/bitcoin/index.md)
-- [Bitcoin](https://docs.coinapi.io/naas-api/bitcoin.md)
+
+### Ethereum
+
+- [Index](https://docs.coinapi.io/naas-api/ethereum/index.md)
+
+#### Methods
+
 - [Eth Blocknumber](https://docs.coinapi.io/naas-api/ethereum/Methods/eth_blockNumber.md)
 - [Eth Call](https://docs.coinapi.io/naas-api/ethereum/Methods/eth_call.md)
 - [Eth Chainid](https://docs.coinapi.io/naas-api/ethereum/Methods/eth_chainId.md)
@@ -660,7 +859,4 @@
 - [Txpool Inspect](https://docs.coinapi.io/naas-api/ethereum/Methods/txpool_inspect.md)
 - [Web3 Clientversion](https://docs.coinapi.io/naas-api/ethereum/Methods/web3_clientVersion.md)
 - [Web3 Sha3](https://docs.coinapi.io/naas-api/ethereum/Methods/web3_sha3.md)
-- [Index](https://docs.coinapi.io/naas-api/ethereum/index.md)
-- [Ethereum](https://docs.coinapi.io/naas-api/ethereum.md)
-- [Index](https://docs.coinapi.io/naas-api/index.md)
 

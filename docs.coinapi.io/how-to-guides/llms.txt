@@ -1,5 +1,0 @@
-# How To Guides
-
-- [Real Time Data Visualization With Javascript](https://docs.coinapi.io/real-time-data-visualization-with-javascript.md)
-- [Real Time Trades Stream Using Websocket With Different Languages](https://docs.coinapi.io/real-time-trades-stream-using-websocket-with-different-languages.md)
-

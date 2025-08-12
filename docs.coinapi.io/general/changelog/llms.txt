@@ -1,4 +1,0 @@
-# Changelog
-
-- [Index](https://docs.coinapi.io/index.md)
-

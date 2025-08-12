@@ -1,4 +1,0 @@
-# Market Data Api
-
-- [Pricing](https://www.coinapi.io/pricing.md)
-

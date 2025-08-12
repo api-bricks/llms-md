@@ -9,6 +9,8 @@
 
 ## Assets
 
+### Files
+
 - [Assets F3Ec53A5Ac124881994Dc2Bfc9122F8D](https://docs.finfeedapi.com/assets/files/Assets-f3ec53a5ac124881994dc2bfc9122f8d.md)
 - [Exchanges 26C2C7538401Ae40F7Ef7106Bb028913](https://docs.finfeedapi.com/assets/files/Exchanges-26c2c7538401ae40f7ef7106bb028913.md)
 - [Symbols E2D17D14D2B8935Ef32B742741Ce97Cb](https://docs.finfeedapi.com/assets/files/Symbols-e2d17d14d2b8935ef32b742741ce97cb.md)
@@ -18,6 +20,15 @@
 - [Authentication](https://docs.finfeedapi.com/currencies-api/authentication.md)
 - [Index](https://docs.finfeedapi.com/currencies-api/index.md)
 - [Jsonrpc Api](https://docs.finfeedapi.com/currencies-api/jsonrpc-api.md)
+- [Websocket](https://docs.finfeedapi.com/currencies-api/websocket.md)
+
+### Metadata Tables
+
+- [Assets](https://docs.finfeedapi.com/currencies-api/metadata-tables/assets.md)
+- [Introduction](https://docs.finfeedapi.com/currencies-api/metadata-tables/introduction.md)
+
+#### Assets
+
 - [Assets 0](https://docs.finfeedapi.com/currencies-api/metadata-tables/assets/assets-0.md)
 - [Assets 1](https://docs.finfeedapi.com/currencies-api/metadata-tables/assets/assets-1.md)
 - [Assets 2](https://docs.finfeedapi.com/currencies-api/metadata-tables/assets/assets-2.md)
@@ -54,8 +65,9 @@
 - [Assets X](https://docs.finfeedapi.com/currencies-api/metadata-tables/assets/assets-x.md)
 - [Assets Y](https://docs.finfeedapi.com/currencies-api/metadata-tables/assets/assets-y.md)
 - [Assets Z](https://docs.finfeedapi.com/currencies-api/metadata-tables/assets/assets-z.md)
-- [Assets](https://docs.finfeedapi.com/currencies-api/metadata-tables/assets.md)
-- [Introduction](https://docs.finfeedapi.com/currencies-api/metadata-tables/introduction.md)
+
+### Rest Api Historical
+
 - [Exchange Rates](https://docs.finfeedapi.com/currencies-api/rest-api-historical/exchange-rates.md)
 - [Fx Historical Rest Api](https://docs.finfeedapi.com/currencies-api/rest-api-historical/fx-historical-rest-api.md)
 - [Get All Current Rates](https://docs.finfeedapi.com/currencies-api/rest-api-historical/get-all-current-rates.md)
@@ -66,6 +78,9 @@
 - [Metadata](https://docs.finfeedapi.com/currencies-api/rest-api-historical/metadata.md)
 - [Timeseries Data](https://docs.finfeedapi.com/currencies-api/rest-api-historical/timeseries-data.md)
 - [Timeseries Periods](https://docs.finfeedapi.com/currencies-api/rest-api-historical/timeseries-periods.md)
+
+### Rest Api Realtime
+
 - [Exchange Rates](https://docs.finfeedapi.com/currencies-api/rest-api-realtime/exchange-rates.md)
 - [Fx Realtime Rest Api](https://docs.finfeedapi.com/currencies-api/rest-api-realtime/fx-realtime-rest-api.md)
 - [Get All Current Rates](https://docs.finfeedapi.com/currencies-api/rest-api-realtime/get-all-current-rates.md)
@@ -74,17 +89,31 @@
 - [List All Assets By Asset Id](https://docs.finfeedapi.com/currencies-api/rest-api-realtime/list-all-assets-by-asset-id.md)
 - [List All Assets](https://docs.finfeedapi.com/currencies-api/rest-api-realtime/list-all-assets.md)
 - [Metadata](https://docs.finfeedapi.com/currencies-api/rest-api-realtime/metadata.md)
+
+### Websocket
+
 - [Endpoints](https://docs.finfeedapi.com/currencies-api/websocket/endpoints.md)
 - [General](https://docs.finfeedapi.com/currencies-api/websocket/general.md)
 - [Index](https://docs.finfeedapi.com/currencies-api/websocket/index.md)
 - [Messages](https://docs.finfeedapi.com/currencies-api/websocket/messages.md)
-- [Websocket](https://docs.finfeedapi.com/currencies-api/websocket.md)
 
 ## General
 
 - [Authentication](https://docs.finfeedapi.com/general/authentication.md)
-- [Index](https://docs.finfeedapi.com/general/changelog/index.md)
 - [Changelog](https://docs.finfeedapi.com/general/changelog.md)
+- [Customer Portal](https://docs.finfeedapi.com/general/customer-portal.md)
+- [Mcp Servers](https://docs.finfeedapi.com/general/mcp-servers.md)
+- [Roadmap](https://docs.finfeedapi.com/general/roadmap.md)
+- [Security](https://docs.finfeedapi.com/general/security.md)
+- [Throttling](https://docs.finfeedapi.com/general/throttling.md)
+- [Usage Credits](https://docs.finfeedapi.com/general/usage-credits.md)
+
+### Changelog
+
+- [Index](https://docs.finfeedapi.com/general/changelog/index.md)
+
+### Customer Portal
+
 - [Apikeys](https://docs.finfeedapi.com/general/customer-portal/APIKeys.md)
 - [Account](https://docs.finfeedapi.com/general/customer-portal/Account.md)
 - [Meteredusage](https://docs.finfeedapi.com/general/customer-portal/MeteredUsage.md)
@@ -97,16 +126,15 @@
 - [Home](https://docs.finfeedapi.com/general/customer-portal/home.md)
 - [Index](https://docs.finfeedapi.com/general/customer-portal/index.md)
 - [Subscriptions](https://docs.finfeedapi.com/general/customer-portal/subscriptions.md)
-- [Customer Portal](https://docs.finfeedapi.com/general/customer-portal.md)
-- [Mcp Servers](https://docs.finfeedapi.com/general/mcp-servers.md)
-- [Roadmap](https://docs.finfeedapi.com/general/roadmap.md)
-- [Security](https://docs.finfeedapi.com/general/security.md)
-- [Throttling](https://docs.finfeedapi.com/general/throttling.md)
-- [Usage Credits](https://docs.finfeedapi.com/general/usage-credits.md)
 
 ## Market Data
 
 - [Authentication](https://docs.finfeedapi.com/market-data/authentication.md)
+
+### Rest Api
+
+#### Metadata
+
 - [Index](https://docs.finfeedapi.com/market-data/rest-api/metadata/index.md)
 
 ## Sec Api
@@ -115,6 +143,10 @@
 - [Index](https://docs.finfeedapi.com/sec-api/index.md)
 - [Jsonrpc Api](https://docs.finfeedapi.com/sec-api/jsonrpc-api.md)
 - [Mcp](https://docs.finfeedapi.com/sec-api/mcp.md)
+- [Websocket](https://docs.finfeedapi.com/sec-api/websocket.md)
+
+### Rest Api
+
 - [Convert Xbrl Data To Json Format](https://docs.finfeedapi.com/sec-api/rest-api/convert-xbrl-data-to-json-format.md)
 - [Download File From Sec Edgar Archive](https://docs.finfeedapi.com/sec-api/rest-api/download-file-from-sec-edgar-archive.md)
 - [Extract And Classify Sec Filing Content](https://docs.finfeedapi.com/sec-api/rest-api/extract-and-classify-sec-filing-content.md)
@@ -122,11 +154,13 @@
 - [Finfeedapi Sec Rest Api](https://docs.finfeedapi.com/sec-api/rest-api/finfeedapi-sec-rest-api.md)
 - [Full Text Search Of Sec Filing Documents](https://docs.finfeedapi.com/sec-api/rest-api/full-text-search-of-sec-filing-documents.md)
 - [Query Sec Filing Metadata](https://docs.finfeedapi.com/sec-api/rest-api/query-sec-filing-metadata.md)
+
+### Websocket
+
 - [Endpoints](https://docs.finfeedapi.com/sec-api/websocket/endpoints.md)
 - [General](https://docs.finfeedapi.com/sec-api/websocket/general.md)
 - [Index](https://docs.finfeedapi.com/sec-api/websocket/index.md)
 - [Messages](https://docs.finfeedapi.com/sec-api/websocket/messages.md)
-- [Websocket](https://docs.finfeedapi.com/sec-api/websocket.md)
 
 ## Stock Api
 
@@ -134,8 +168,14 @@
 - [Index](https://docs.finfeedapi.com/stock-api/index.md)
 - [Jsonrpc Api](https://docs.finfeedapi.com/stock-api/jsonrpc-api.md)
 - [Mcp](https://docs.finfeedapi.com/stock-api/mcp.md)
+
+### Metadata Tables
+
 - [Exchanges](https://docs.finfeedapi.com/stock-api/metadata-tables/exchanges.md)
 - [Introduction](https://docs.finfeedapi.com/stock-api/metadata-tables/introduction.md)
+
+#### Symbols
+
 - [Alxb](https://docs.finfeedapi.com/stock-api/metadata-tables/symbols/alxb.md)
 - [Alxl](https://docs.finfeedapi.com/stock-api/metadata-tables/symbols/alxl.md)
 - [Alxp](https://docs.finfeedapi.com/stock-api/metadata-tables/symbols/alxp.md)
@@ -175,6 +215,9 @@
 - [Xtai](https://docs.finfeedapi.com/stock-api/metadata-tables/symbols/xtai.md)
 - [Xwar](https://docs.finfeedapi.com/stock-api/metadata-tables/symbols/xwar.md)
 - [Xwbo](https://docs.finfeedapi.com/stock-api/metadata-tables/symbols/xwbo.md)
+
+### Rest Api Historical
+
 - [Finfeedapi Stock Rest Api](https://docs.finfeedapi.com/stock-api/rest-api-historical/finfeedapi-stock-rest-api.md)
 - [Get Admin Messages](https://docs.finfeedapi.com/stock-api/rest-api-historical/get-admin-messages.md)
 - [Get Level 1 Quotes](https://docs.finfeedapi.com/stock-api/rest-api-historical/get-level-1-quotes.md)

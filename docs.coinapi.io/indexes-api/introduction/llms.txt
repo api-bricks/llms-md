@@ -1,8 +1,0 @@
-# Introduction
-
-- [Governance And Oversight](https://docs.coinapi.io/governance-and-oversight.md)
-- [Index](https://docs.coinapi.io/index.md)
-- [Key Principles](https://docs.coinapi.io/key-principles.md)
-- [Purpose And Scope](https://docs.coinapi.io/purpose-and-scope.md)
-- [Quickstart](https://docs.coinapi.io/quickstart.md)
-

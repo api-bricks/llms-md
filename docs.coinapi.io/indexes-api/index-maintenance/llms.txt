@@ -1,5 +1,0 @@
-# Index Maintenance
-
-- [Corporate Action Treatment](https://docs.coinapi.io/corporate-action-treatment.md)
-- [Rebalancing And Reconstitution](https://docs.coinapi.io/rebalancing-and-reconstitution.md)
-

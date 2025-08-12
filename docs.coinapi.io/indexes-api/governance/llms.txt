@@ -1,6 +1,0 @@
-# Governance
-
-- [Index Committees](https://docs.coinapi.io/index-committees.md)
-- [Internal Oversight](https://docs.coinapi.io/internal-oversight.md)
-- [Methodology Review](https://docs.coinapi.io/methodology-review.md)
-

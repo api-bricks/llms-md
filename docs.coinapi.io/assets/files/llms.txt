@@ -1,5 +1,0 @@
-# Files
-
-- [Assets E38C7F10Fd1C9D443615E2A3C64B8497](https://docs.coinapi.io/assets-e38c7f10fd1c9d443615e2a3c64b8497.md)
-- [Exchanges 6A031337Aeeb65Dcdff038A8Edd02604](https://docs.coinapi.io/exchanges-6a031337aeeb65dcdff038a8edd02604.md)
-

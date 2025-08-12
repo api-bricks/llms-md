@@ -1,6 +1,0 @@
-# Index Calculation Methodologies
-
-- [Capivix Index Methodology](https://docs.coinapi.io/capivix-index-methodology.md)
-- [Primkt Index Methodology](https://docs.coinapi.io/primkt-index-methodology.md)
-- [Vwap Index Methodology](https://docs.coinapi.io/vwap-index-methodology.md)
-

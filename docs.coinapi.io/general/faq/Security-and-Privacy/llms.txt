@@ -1,7 +1,0 @@
-# Security And Privacy
-
-- [What Cdn Does The Api Use](https://docs.coinapi.io/What-CDN-does-the-API-use.md)
-- [What Security Mechanisms Does Coinapi Use To Protect My Data](https://docs.coinapi.io/What-security-mechanisms-does-CoinAPI-use-to-protect-my-data.md)
-- [What Should I Do If My Api Key Was Compromised](https://docs.coinapi.io/What-should-I-do-if-my-API-key-was-compromised.md)
-- [Index](https://docs.coinapi.io/index.md)
-

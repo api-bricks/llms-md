@@ -1,5 +1,0 @@
-# Eligibility Criteria
-
-- [Asset Eligibility](https://docs.coinapi.io/asset-eligibility.md)
-- [Exchange Eligibility](https://docs.coinapi.io/exchange-eligibility.md)
-

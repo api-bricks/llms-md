@@ -1,9 +1,0 @@
-# Ohlcv
-
-- [Coinapi Market Data Rest Api](https://docs.coinapi.io/coinapi-market-data-rest-api.md)
-- [Historical Data By Exchange](https://docs.coinapi.io/historical-data-by-exchange.md)
-- [Historical Data](https://docs.coinapi.io/historical-data.md)
-- [Index](https://docs.coinapi.io/index.md)
-- [Latest Data](https://docs.coinapi.io/latest-data.md)
-- [List All Periods](https://docs.coinapi.io/list-all-periods.md)
-

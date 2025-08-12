@@ -1,4 +1,0 @@
-# Flat Files
-
-- [Pricing](https://www.finfeedapi.com/pricing.md)
-

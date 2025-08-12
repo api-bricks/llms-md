@@ -1,7 +1,0 @@
-# Order Book L3
-
-- [Coinapi Market Data Rest Api](https://docs.coinapi.io/coinapi-market-data-rest-api.md)
-- [Current Order Book By Symbol Id](https://docs.coinapi.io/current-order-book-by-symbol-id.md)
-- [Current Order Books](https://docs.coinapi.io/current-order-books.md)
-- [Index](https://docs.coinapi.io/index.md)
-

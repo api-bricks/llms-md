@@ -1,4 +1,0 @@
-# Node As A Service
-
-- [Index](https://docs.coinapi.io/index.md)
-

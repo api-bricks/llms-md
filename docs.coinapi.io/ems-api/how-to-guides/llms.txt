@@ -1,4 +1,0 @@
-# How To Guides
-
-- [Trading Essentials Quickstart](https://docs.coinapi.io/trading-essentials-quickstart.md)
-

@@ -1,4 +1,0 @@
-# Indexes Api
-
-- [Index](https://docs.coinapi.io/index.md)
-
