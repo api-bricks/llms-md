@@ -1,0 +1,8 @@
+# Category
+
+- [Eligibility Criteria](https://docs.coinapi.io/eligibility-criteria.md)
+- [Governance](https://docs.coinapi.io/governance.md)
+- [Index Calculation Methodologies](https://docs.coinapi.io/index-calculation-methodologies.md)
+- [Index Maintenance](https://docs.coinapi.io/index-maintenance.md)
+- [Index Offerings](https://docs.coinapi.io/index-offerings.md)
+

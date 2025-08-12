@@ -1,0 +1,6 @@
+# Index Offerings
+
+- [Capivix Index](https://docs.coinapi.io/capivix-index.md)
+- [Primkt Index](https://docs.coinapi.io/primkt-index.md)
+- [Vwap Index](https://docs.coinapi.io/vwap-index.md)
+

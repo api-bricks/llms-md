@@ -1,0 +1,13 @@
+# Rest Api Historical
+
+- [Exchange Rates](https://docs.finfeedapi.com/exchange-rates.md)
+- [Fx Historical Rest Api](https://docs.finfeedapi.com/fx-historical-rest-api.md)
+- [Get All Current Rates](https://docs.finfeedapi.com/get-all-current-rates.md)
+- [Get Specific Rate](https://docs.finfeedapi.com/get-specific-rate.md)
+- [List All Asset Icons](https://docs.finfeedapi.com/list-all-asset-icons.md)
+- [List All Assets By Asset Id](https://docs.finfeedapi.com/list-all-assets-by-asset-id.md)
+- [List All Assets](https://docs.finfeedapi.com/list-all-assets.md)
+- [Metadata](https://docs.finfeedapi.com/metadata.md)
+- [Timeseries Data](https://docs.finfeedapi.com/timeseries-data.md)
+- [Timeseries Periods](https://docs.finfeedapi.com/timeseries-periods.md)
+

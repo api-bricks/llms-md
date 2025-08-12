@@ -1,0 +1,21 @@
+# Rest Api
+
+- [Account Balance](https://docs.coinapi.io/account-balance.md)
+- [Add Datastore Endpoint](https://docs.coinapi.io/add-datastore-endpoint.md)
+- [Calculate Price For The Order](https://docs.coinapi.io/calculate-price-for-the-order.md)
+- [Create Order](https://docs.coinapi.io/create-order.md)
+- [Data Storage](https://docs.coinapi.io/data-storage.md)
+- [Delete Datastore Endpoint](https://docs.coinapi.io/delete-datastore-endpoint.md)
+- [Delete Order](https://docs.coinapi.io/delete-order.md)
+- [Estimate Daily Price For The Order](https://docs.coinapi.io/estimate-daily-price-for-the-order.md)
+- [List All Datastore Endpoints](https://docs.coinapi.io/list-all-datastore-endpoints.md)
+- [List All Datastore Types](https://docs.coinapi.io/list-all-datastore-types.md)
+- [List All Exchanges By Exchange Id](https://docs.coinapi.io/list-all-exchanges-by-exchange-id.md)
+- [List All Exchanges](https://docs.coinapi.io/list-all-exchanges.md)
+- [List All Orders](https://docs.coinapi.io/list-all-orders.md)
+- [List All Schemas](https://docs.coinapi.io/list-all-schemas.md)
+- [List Of Symbols For The Exchange](https://docs.coinapi.io/list-of-symbols-for-the-exchange.md)
+- [Metadata](https://docs.coinapi.io/metadata.md)
+- [Orders](https://docs.coinapi.io/orders.md)
+- [Push Api](https://docs.coinapi.io/push-api.md)
+

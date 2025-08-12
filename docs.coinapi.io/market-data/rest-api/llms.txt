@@ -1,0 +1,118 @@
+# Rest Api
+
+- [Exchange Rates](https://docs.coinapi.io/exchange-rates.md)
+- [Index](https://docs.coinapi.io/index.md)
+- [Indexes](https://docs.coinapi.io/indexes.md)
+- [Metadata](https://docs.coinapi.io/metadata.md)
+- [Metricsv1](https://docs.coinapi.io/metricsv1.md)
+- [Metricsv2](https://docs.coinapi.io/metricsv2.md)
+- [Ohlcv](https://docs.coinapi.io/ohlcv.md)
+- [Options](https://docs.coinapi.io/options.md)
+- [Order Book L3](https://docs.coinapi.io/order-book-l3.md)
+- [Order Book](https://docs.coinapi.io/order-book.md)
+- [Quotes](https://docs.coinapi.io/quotes.md)
+- [Trades](https://docs.coinapi.io/trades.md)
+
+## Exchange Rates
+
+- [Coinapi Market Data Rest Api](https://docs.coinapi.io/exchange-rates/coinapi-market-data-rest-api.md)
+- [Get All Current Rates](https://docs.coinapi.io/exchange-rates/get-all-current-rates.md)
+- [Get Specific Rate](https://docs.coinapi.io/exchange-rates/get-specific-rate.md)
+- [Index](https://docs.coinapi.io/exchange-rates/index.md)
+- [Timeseries Data](https://docs.coinapi.io/exchange-rates/timeseries-data.md)
+- [Timeseries Periods](https://docs.coinapi.io/exchange-rates/timeseries-periods.md)
+
+## Metadata
+
+- [Coinapi Market Data Rest Api](https://docs.coinapi.io/metadata/coinapi-market-data-rest-api.md)
+- [Index](https://docs.coinapi.io/metadata/index.md)
+- [List Active Symbol Mapping For The Exchange](https://docs.coinapi.io/metadata/list-active-symbol-mapping-for-the-exchange.md)
+- [List All Active Symbols](https://docs.coinapi.io/metadata/list-all-active-symbols.md)
+- [List All Asset Icons](https://docs.coinapi.io/metadata/list-all-asset-icons.md)
+- [List All Assets By Asset Id](https://docs.coinapi.io/metadata/list-all-assets-by-asset-id.md)
+- [List All Assets](https://docs.coinapi.io/metadata/list-all-assets.md)
+- [List All Blockchain Chains](https://docs.coinapi.io/metadata/list-all-blockchain-chains.md)
+- [List All Chains By Chain Id](https://docs.coinapi.io/metadata/list-all-chains-by-chain-id.md)
+- [List All Exchanges By Exchange Id](https://docs.coinapi.io/metadata/list-all-exchanges-by-exchange-id.md)
+- [List All Exchanges](https://docs.coinapi.io/metadata/list-all-exchanges.md)
+- [List All Historical Symbols For An Exchange](https://docs.coinapi.io/metadata/list-all-historical-symbols-for-an-exchange.md)
+- [List Of Active Symbols For The Exchange](https://docs.coinapi.io/metadata/list-of-active-symbols-for-the-exchange.md)
+- [List Of Icons For The Exchanges](https://docs.coinapi.io/metadata/list-of-icons-for-the-exchanges.md)
+- [List Of Symbols For The Exchange](https://docs.coinapi.io/metadata/list-of-symbols-for-the-exchange.md)
+
+## Metricsv1
+
+- [Coinapi Market Data Rest Api](https://docs.coinapi.io/metricsv1/coinapi-market-data-rest-api.md)
+- [Current Metrics For Given Asset](https://docs.coinapi.io/metricsv1/current-metrics-for-given-asset.md)
+- [Current Metrics For Given Exchange](https://docs.coinapi.io/metricsv1/current-metrics-for-given-exchange.md)
+- [Current Metrics For Given Symbol](https://docs.coinapi.io/metricsv1/current-metrics-for-given-symbol.md)
+- [Historical Metrics For Asset](https://docs.coinapi.io/metricsv1/historical-metrics-for-asset.md)
+- [Historical Metrics For Symbol](https://docs.coinapi.io/metricsv1/historical-metrics-for-symbol.md)
+- [Historical Metrics For The Exchange](https://docs.coinapi.io/metricsv1/historical-metrics-for-the-exchange.md)
+- [Index](https://docs.coinapi.io/metricsv1/index.md)
+- [Listing Of All Supported Exchange Metrics](https://docs.coinapi.io/metricsv1/listing-of-all-supported-exchange-metrics.md)
+- [Listing Of All Supported Metrics By Coin Api](https://docs.coinapi.io/metricsv1/listing-of-all-supported-metrics-by-coin-api.md)
+- [Listing Of All Supported Metrics For Asset](https://docs.coinapi.io/metricsv1/listing-of-all-supported-metrics-for-asset.md)
+- [Listing Of All Supported Metrics For Symbol](https://docs.coinapi.io/metricsv1/listing-of-all-supported-metrics-for-symbol.md)
+
+## Metricsv2
+
+- [Coinapi Market Data Rest Api](https://docs.coinapi.io/metricsv2/coinapi-market-data-rest-api.md)
+- [Historical Metrics For The Asset](https://docs.coinapi.io/metricsv2/historical-metrics-for-the-asset.md)
+- [Historical Metrics For The Chain](https://docs.coinapi.io/metricsv2/historical-metrics-for-the-chain.md)
+- [Historical Metrics For The Exchange](https://docs.coinapi.io/metricsv2/historical-metrics-for-the-exchange.md)
+- [Index](https://docs.coinapi.io/metricsv2/index.md)
+- [Listing Of All Supported Metrics](https://docs.coinapi.io/metricsv2/listing-of-all-supported-metrics.md)
+- [Listing Of Metrics Available For Specific Asset](https://docs.coinapi.io/metricsv2/listing-of-metrics-available-for-specific-asset.md)
+- [Listing Of Metrics Available For Specific Chain](https://docs.coinapi.io/metricsv2/listing-of-metrics-available-for-specific-chain.md)
+- [Listing Of Metrics Available For Specific Exchange](https://docs.coinapi.io/metricsv2/listing-of-metrics-available-for-specific-exchange.md)
+
+## Ohlcv
+
+- [Coinapi Market Data Rest Api](https://docs.coinapi.io/ohlcv/coinapi-market-data-rest-api.md)
+- [Historical Data By Exchange](https://docs.coinapi.io/ohlcv/historical-data-by-exchange.md)
+- [Historical Data](https://docs.coinapi.io/ohlcv/historical-data.md)
+- [Index](https://docs.coinapi.io/ohlcv/index.md)
+- [Latest Data](https://docs.coinapi.io/ohlcv/latest-data.md)
+- [List All Periods](https://docs.coinapi.io/ohlcv/list-all-periods.md)
+
+## Options
+
+- [Coinapi Market Data Rest Api](https://docs.coinapi.io/options/coinapi-market-data-rest-api.md)
+- [Current Data By Exchange](https://docs.coinapi.io/options/current-data-by-exchange.md)
+- [Index](https://docs.coinapi.io/options/index.md)
+
+## Order Book
+
+- [Coinapi Market Data Rest Api](https://docs.coinapi.io/order-book/coinapi-market-data-rest-api.md)
+- [Current Depth Of The Order Book](https://docs.coinapi.io/order-book/current-depth-of-the-order-book.md)
+- [Get Current Order Book](https://docs.coinapi.io/order-book/get-current-order-book.md)
+- [Historical Data](https://docs.coinapi.io/order-book/historical-data.md)
+- [Index](https://docs.coinapi.io/order-book/index.md)
+- [Latest Data](https://docs.coinapi.io/order-book/latest-data.md)
+
+## Order Book L3
+
+- [Coinapi Market Data Rest Api](https://docs.coinapi.io/order-book-l3/coinapi-market-data-rest-api.md)
+- [Current Order Book By Symbol Id](https://docs.coinapi.io/order-book-l3/current-order-book-by-symbol-id.md)
+- [Current Order Books](https://docs.coinapi.io/order-book-l3/current-order-books.md)
+- [Index](https://docs.coinapi.io/order-book-l3/index.md)
+
+## Quotes
+
+- [Coinapi Market Data Rest Api](https://docs.coinapi.io/quotes/coinapi-market-data-rest-api.md)
+- [Current Data](https://docs.coinapi.io/quotes/current-data.md)
+- [Current Quotes For A Specific Symbol](https://docs.coinapi.io/quotes/current-quotes-for-a-specific-symbol.md)
+- [Historical Data](https://docs.coinapi.io/quotes/historical-data.md)
+- [Index](https://docs.coinapi.io/quotes/index.md)
+- [Latest Data](https://docs.coinapi.io/quotes/latest-data.md)
+- [Latest Quote Updates For A Specific Symbol](https://docs.coinapi.io/quotes/latest-quote-updates-for-a-specific-symbol.md)
+
+## Trades
+
+- [Coinapi Market Data Rest Api](https://docs.coinapi.io/trades/coinapi-market-data-rest-api.md)
+- [Historical Data](https://docs.coinapi.io/trades/historical-data.md)
+- [Index](https://docs.coinapi.io/trades/index.md)
+- [Latest Data By Symbol Id](https://docs.coinapi.io/trades/latest-data-by-symbol-id.md)
+- [Latest Data](https://docs.coinapi.io/trades/latest-data.md)
+

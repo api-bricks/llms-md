@@ -1,0 +1,4 @@
+# Ems Trading Api
+
+- [Index](https://docs.coinapi.io/index.md)
+

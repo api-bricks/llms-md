@@ -1,0 +1,9 @@
+# Exchange Rates
+
+- [Coinapi Market Data Rest Api](https://docs.coinapi.io/coinapi-market-data-rest-api.md)
+- [Get All Current Rates](https://docs.coinapi.io/get-all-current-rates.md)
+- [Get Specific Rate](https://docs.coinapi.io/get-specific-rate.md)
+- [Index](https://docs.coinapi.io/index.md)
+- [Timeseries Data](https://docs.coinapi.io/timeseries-data.md)
+- [Timeseries Periods](https://docs.coinapi.io/timeseries-periods.md)
+

@@ -1,0 +1,6 @@
+# Rest Api
+
+## Metadata
+
+- [Index](https://docs.finfeedapi.com/metadata/index.md)
+

@@ -1,0 +1,18 @@
+# Api Access And Integration
+
+- [Can Using A Vpn Affect My Connection To Coinapi](https://docs.coinapi.io/Can-using-a-VPN-affect-my-connection-to-CoinAPI.md)
+- [How Can I Fix Certificate Validation Errors](https://docs.coinapi.io/How-can-I-fix-certificate-validation-errors.md)
+- [How Can I Troubleshoot Fix Api Logon Issues With Coinapi](https://docs.coinapi.io/How-can-I-troubleshoot-FIX-API-logon-issues-with-CoinAPI.md)
+- [How Can I Use Coinapi From Matlab](https://docs.coinapi.io/How-can-I-use-CoinAPI-from-MATLAB.md)
+- [How Do I Generate An Api Key For Fix Api](https://docs.coinapi.io/How-do-I-generate-an-API-key-for-FIX-API.md)
+- [How Do I Troubleshoot Api Errors](https://docs.coinapi.io/How-do-I-troubleshoot-API-errors.md)
+- [How Does Coinapi Calculate Cryptocurrency Exchange Rates](https://docs.coinapi.io/How-does-CoinAPI-calculate-cryptocurrency-exchange-rates.md)
+- [How Should I Document And Troubleshoot Coinapi Connectivity Issues](https://docs.coinapi.io/How-should-I-document-and-troubleshoot-CoinAPI-connectivity-issues.md)
+- [What Programming Languages Are Supported By Coinapi](https://docs.coinapi.io/What-programming-languages-are-supported-by-CoinAPI.md)
+- [What Timezone Does Coinapi Use For Date And Time](https://docs.coinapi.io/What-timezone-does-CoinAPI-use-for-date-and-time.md)
+- [Where Are Coinapi Servers Located](https://docs.coinapi.io/Where-are-CoinAPI-servers-located.md)
+- [Where Can I Find Api Examples And Sdk Source Code](https://docs.coinapi.io/Where-can-I-find-API-examples-and-SDK-source-code.md)
+- [Why Am I Getting An Invalid Api Key Error After Generating A New Key](https://docs.coinapi.io/Why-am-I-getting-an-invalid-API-Key-error-after-generating-a-new-key.md)
+- [Why Does My Websocket Connection Keep Disconnecting With Code 1006 And No Reason](https://docs.coinapi.io/Why-does-my-WebSocket-connection-keep-disconnecting-with-code-1006-and-no-reason.md)
+- [Index](https://docs.coinapi.io/index.md)
+

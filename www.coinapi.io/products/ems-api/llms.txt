@@ -1,0 +1,5 @@
+# Ems Api
+
+- [Faq](https://www.coinapi.io/faq.md)
+- [Pricing](https://www.coinapi.io/pricing.md)
+

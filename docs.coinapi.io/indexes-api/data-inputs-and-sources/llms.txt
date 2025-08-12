@@ -1,0 +1,7 @@
+# Data Inputs And Sources
+
+- [Data Hierarchy](https://docs.coinapi.io/data-hierarchy.md)
+- [Data Quality Controls](https://docs.coinapi.io/data-quality-controls.md)
+- [Exchange Selection Criteria](https://docs.coinapi.io/exchange-selection-criteria.md)
+- [Index](https://docs.coinapi.io/index.md)
+

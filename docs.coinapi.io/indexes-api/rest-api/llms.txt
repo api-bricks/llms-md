@@ -1,0 +1,4 @@
+# Rest Api
+
+- [Coinapi Indexes Rest Api](https://docs.coinapi.io/coinapi-indexes-rest-api.md)
+

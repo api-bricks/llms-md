@@ -1,0 +1,6 @@
+# Options
+
+- [Coinapi Market Data Rest Api](https://docs.coinapi.io/coinapi-market-data-rest-api.md)
+- [Current Data By Exchange](https://docs.coinapi.io/current-data-by-exchange.md)
+- [Index](https://docs.coinapi.io/index.md)
+

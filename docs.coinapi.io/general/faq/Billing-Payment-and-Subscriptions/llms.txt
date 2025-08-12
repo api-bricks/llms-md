@@ -1,0 +1,18 @@
+# Billing Payment And Subscriptions
+
+- [Can I Cancel My Subscription Anytime](https://docs.coinapi.io/Can-I-cancel-my-subscription-anytime.md)
+- [Can I Customize My Plan](https://docs.coinapi.io/Can-I-customize-my-plan.md)
+- [Can I Still Use My Api Key If I Cancel My Subscription](https://docs.coinapi.io/Can-I-still-use-my-API-key-if-I-cancel-my-subscription.md)
+- [Can I Top Up Credits At A Discounted Rate On Different Days](https://docs.coinapi.io/Can-I-top-up-credits-at-a-discounted-rate-on-different-days.md)
+- [Do You Accept Bank Or Wire Transfers](https://docs.coinapi.io/Do-you-accept-bank-or-wire-transfers.md)
+- [How Do I Pay Overdue Invoices](https://docs.coinapi.io/How-do-I-pay-overdue-invoices.md)
+- [How To Handle Payment Errors During Sign Up](https://docs.coinapi.io/How-to-handle-payment-errors-during-sign-up.md)
+- [How To Reactivate My Canceled Subscription](https://docs.coinapi.io/How-to-reactivate-my-canceled-subscription.md)
+- [How To Subscribe To The Api](https://docs.coinapi.io/How-to-subscribe-to-the-API.md)
+- [How To Upgrade Downgrade My Subscription](https://docs.coinapi.io/How-to-upgrade-downgrade-my-subscription.md)
+- [Is There A Free Tier For Coinapi Market Data Api](https://docs.coinapi.io/Is-there-a-free-tier-for-CoinAPI-Market-Data-API.md)
+- [What Do I Need To Complete A Subscription Payment](https://docs.coinapi.io/What-do-I-need-to-complete-a-subscription-payment.md)
+- [What Happens If We Exceed Our Credit Limit And How Do Upgrades Work On An Annual Subscription](https://docs.coinapi.io/What-happens-if-we-exceed-our-credit-limit-And-how-do-upgrades-work-on-an-annual-subscription.md)
+- [What Is A Billing Cycle](https://docs.coinapi.io/What-is-a-billing-cycle.md)
+- [Index](https://docs.coinapi.io/index.md)
+

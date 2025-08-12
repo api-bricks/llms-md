@@ -1,0 +1,15 @@
+# Rest Api
+
+- [Balances](https://docs.coinapi.io/balances.md)
+- [Cancel All Orders Request](https://docs.coinapi.io/cancel-all-orders-request.md)
+- [Cancel Order Request](https://docs.coinapi.io/cancel-order-request.md)
+- [Get Balances](https://docs.coinapi.io/get-balances.md)
+- [Get Open Orders](https://docs.coinapi.io/get-open-orders.md)
+- [Get Open Positions](https://docs.coinapi.io/get-open-positions.md)
+- [Get Order Execution Report](https://docs.coinapi.io/get-order-execution-report.md)
+- [History Of Order Changes](https://docs.coinapi.io/history-of-order-changes.md)
+- [Orders](https://docs.coinapi.io/orders.md)
+- [Positions](https://docs.coinapi.io/positions.md)
+- [Rest Api](https://docs.coinapi.io/rest-api.md)
+- [Send New Order](https://docs.coinapi.io/send-new-order.md)
+

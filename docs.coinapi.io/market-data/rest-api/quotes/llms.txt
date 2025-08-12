@@ -1,0 +1,10 @@
+# Quotes
+
+- [Coinapi Market Data Rest Api](https://docs.coinapi.io/coinapi-market-data-rest-api.md)
+- [Current Data](https://docs.coinapi.io/current-data.md)
+- [Current Quotes For A Specific Symbol](https://docs.coinapi.io/current-quotes-for-a-specific-symbol.md)
+- [Historical Data](https://docs.coinapi.io/historical-data.md)
+- [Index](https://docs.coinapi.io/index.md)
+- [Latest Data](https://docs.coinapi.io/latest-data.md)
+- [Latest Quote Updates For A Specific Symbol](https://docs.coinapi.io/latest-quote-updates-for-a-specific-symbol.md)
+

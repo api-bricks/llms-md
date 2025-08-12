@@ -1,0 +1,7 @@
+# Data Types
+
+- [Index](https://docs.coinapi.io/index.md)
+- [Limitbook](https://docs.coinapi.io/limitbook.md)
+- [Quotes](https://docs.coinapi.io/quotes.md)
+- [Trades](https://docs.coinapi.io/trades.md)
+

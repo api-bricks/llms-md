@@ -1,0 +1,79 @@
+# Currencies Api
+
+- [Authentication](https://docs.finfeedapi.com/authentication.md)
+- [Index](https://docs.finfeedapi.com/index.md)
+- [Jsonrpc Api](https://docs.finfeedapi.com/jsonrpc-api.md)
+- [Websocket](https://docs.finfeedapi.com/websocket.md)
+
+## Metadata Tables
+
+- [Assets 0](https://docs.finfeedapi.com/metadata-tables/assets/assets-0.md)
+- [Assets 1](https://docs.finfeedapi.com/metadata-tables/assets/assets-1.md)
+- [Assets 2](https://docs.finfeedapi.com/metadata-tables/assets/assets-2.md)
+- [Assets 3](https://docs.finfeedapi.com/metadata-tables/assets/assets-3.md)
+- [Assets 4](https://docs.finfeedapi.com/metadata-tables/assets/assets-4.md)
+- [Assets 5](https://docs.finfeedapi.com/metadata-tables/assets/assets-5.md)
+- [Assets 6](https://docs.finfeedapi.com/metadata-tables/assets/assets-6.md)
+- [Assets 7](https://docs.finfeedapi.com/metadata-tables/assets/assets-7.md)
+- [Assets 8](https://docs.finfeedapi.com/metadata-tables/assets/assets-8.md)
+- [Assets 9](https://docs.finfeedapi.com/metadata-tables/assets/assets-9.md)
+- [Assets A](https://docs.finfeedapi.com/metadata-tables/assets/assets-a.md)
+- [Assets B](https://docs.finfeedapi.com/metadata-tables/assets/assets-b.md)
+- [Assets C](https://docs.finfeedapi.com/metadata-tables/assets/assets-c.md)
+- [Assets D](https://docs.finfeedapi.com/metadata-tables/assets/assets-d.md)
+- [Assets E](https://docs.finfeedapi.com/metadata-tables/assets/assets-e.md)
+- [Assets F](https://docs.finfeedapi.com/metadata-tables/assets/assets-f.md)
+- [Assets G](https://docs.finfeedapi.com/metadata-tables/assets/assets-g.md)
+- [Assets H](https://docs.finfeedapi.com/metadata-tables/assets/assets-h.md)
+- [Assets I](https://docs.finfeedapi.com/metadata-tables/assets/assets-i.md)
+- [Assets J](https://docs.finfeedapi.com/metadata-tables/assets/assets-j.md)
+- [Assets K](https://docs.finfeedapi.com/metadata-tables/assets/assets-k.md)
+- [Assets L](https://docs.finfeedapi.com/metadata-tables/assets/assets-l.md)
+- [Assets M](https://docs.finfeedapi.com/metadata-tables/assets/assets-m.md)
+- [Assets N](https://docs.finfeedapi.com/metadata-tables/assets/assets-n.md)
+- [Assets O](https://docs.finfeedapi.com/metadata-tables/assets/assets-o.md)
+- [Assets P](https://docs.finfeedapi.com/metadata-tables/assets/assets-p.md)
+- [Assets Q](https://docs.finfeedapi.com/metadata-tables/assets/assets-q.md)
+- [Assets R](https://docs.finfeedapi.com/metadata-tables/assets/assets-r.md)
+- [Assets S](https://docs.finfeedapi.com/metadata-tables/assets/assets-s.md)
+- [Assets T](https://docs.finfeedapi.com/metadata-tables/assets/assets-t.md)
+- [Assets U](https://docs.finfeedapi.com/metadata-tables/assets/assets-u.md)
+- [Assets V](https://docs.finfeedapi.com/metadata-tables/assets/assets-v.md)
+- [Assets W](https://docs.finfeedapi.com/metadata-tables/assets/assets-w.md)
+- [Assets X](https://docs.finfeedapi.com/metadata-tables/assets/assets-x.md)
+- [Assets Y](https://docs.finfeedapi.com/metadata-tables/assets/assets-y.md)
+- [Assets Z](https://docs.finfeedapi.com/metadata-tables/assets/assets-z.md)
+- [Assets](https://docs.finfeedapi.com/metadata-tables/assets.md)
+- [Introduction](https://docs.finfeedapi.com/metadata-tables/introduction.md)
+
+## Rest Api Historical
+
+- [Exchange Rates](https://docs.finfeedapi.com/rest-api-historical/exchange-rates.md)
+- [Fx Historical Rest Api](https://docs.finfeedapi.com/rest-api-historical/fx-historical-rest-api.md)
+- [Get All Current Rates](https://docs.finfeedapi.com/rest-api-historical/get-all-current-rates.md)
+- [Get Specific Rate](https://docs.finfeedapi.com/rest-api-historical/get-specific-rate.md)
+- [List All Asset Icons](https://docs.finfeedapi.com/rest-api-historical/list-all-asset-icons.md)
+- [List All Assets By Asset Id](https://docs.finfeedapi.com/rest-api-historical/list-all-assets-by-asset-id.md)
+- [List All Assets](https://docs.finfeedapi.com/rest-api-historical/list-all-assets.md)
+- [Metadata](https://docs.finfeedapi.com/rest-api-historical/metadata.md)
+- [Timeseries Data](https://docs.finfeedapi.com/rest-api-historical/timeseries-data.md)
+- [Timeseries Periods](https://docs.finfeedapi.com/rest-api-historical/timeseries-periods.md)
+
+## Rest Api Realtime
+
+- [Exchange Rates](https://docs.finfeedapi.com/rest-api-realtime/exchange-rates.md)
+- [Fx Realtime Rest Api](https://docs.finfeedapi.com/rest-api-realtime/fx-realtime-rest-api.md)
+- [Get All Current Rates](https://docs.finfeedapi.com/rest-api-realtime/get-all-current-rates.md)
+- [Get Specific Rate](https://docs.finfeedapi.com/rest-api-realtime/get-specific-rate.md)
+- [List All Asset Icons](https://docs.finfeedapi.com/rest-api-realtime/list-all-asset-icons.md)
+- [List All Assets By Asset Id](https://docs.finfeedapi.com/rest-api-realtime/list-all-assets-by-asset-id.md)
+- [List All Assets](https://docs.finfeedapi.com/rest-api-realtime/list-all-assets.md)
+- [Metadata](https://docs.finfeedapi.com/rest-api-realtime/metadata.md)
+
+## Websocket
+
+- [Endpoints](https://docs.finfeedapi.com/websocket/endpoints.md)
+- [General](https://docs.finfeedapi.com/websocket/general.md)
+- [Index](https://docs.finfeedapi.com/websocket/index.md)
+- [Messages](https://docs.finfeedapi.com/websocket/messages.md)
+

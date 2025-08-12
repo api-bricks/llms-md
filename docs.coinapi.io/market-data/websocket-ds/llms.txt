@@ -1,0 +1,7 @@
+# Websocket Ds
+
+- [Endpoints](https://docs.coinapi.io/endpoints.md)
+- [General](https://docs.coinapi.io/general.md)
+- [Index](https://docs.coinapi.io/index.md)
+- [Messages](https://docs.coinapi.io/messages.md)
+

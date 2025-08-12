@@ -1,0 +1,5 @@
+# Currencies Api
+
+- [Faq](https://www.finfeedapi.com/faq.md)
+- [Pricing](https://www.finfeedapi.com/pricing.md)
+

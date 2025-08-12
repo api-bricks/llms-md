@@ -1,0 +1,80 @@
+# Indexes Api
+
+- [Conflict Of Interest Policies](https://docs.coinapi.io/conflict-of-interest-policies.md)
+- [Data Inputs And Sources](https://docs.coinapi.io/data-inputs-and-sources.md)
+- [Disclaimer](https://docs.coinapi.io/disclaimer.md)
+- [Index Policies](https://docs.coinapi.io/index-policies.md)
+- [Index](https://docs.coinapi.io/index.md)
+- [Introduction](https://docs.coinapi.io/introduction.md)
+- [Limitations Of The Indexes](https://docs.coinapi.io/limitations-of-the-indexes.md)
+- [Mcp](https://docs.coinapi.io/mcp.md)
+- [Use Of Expert Judgment](https://docs.coinapi.io/use-of-expert-judgment.md)
+- [Websocket Api](https://docs.coinapi.io/websocket-api.md)
+
+## Additional Information
+
+- [Contact Information](https://docs.coinapi.io/additional-information/contact-information.md)
+
+## Data Inputs And Sources
+
+- [Data Hierarchy](https://docs.coinapi.io/data-inputs-and-sources/data-hierarchy.md)
+- [Data Quality Controls](https://docs.coinapi.io/data-inputs-and-sources/data-quality-controls.md)
+- [Exchange Selection Criteria](https://docs.coinapi.io/data-inputs-and-sources/exchange-selection-criteria.md)
+- [Index](https://docs.coinapi.io/data-inputs-and-sources/index.md)
+
+## Eligibility Criteria
+
+- [Asset Eligibility](https://docs.coinapi.io/eligibility-criteria/asset-eligibility.md)
+- [Exchange Eligibility](https://docs.coinapi.io/eligibility-criteria/exchange-eligibility.md)
+
+## Governance
+
+- [Index Committees](https://docs.coinapi.io/governance/index-committees.md)
+- [Internal Oversight](https://docs.coinapi.io/governance/internal-oversight.md)
+- [Methodology Review](https://docs.coinapi.io/governance/methodology-review.md)
+
+## Index Calculation Methodologies
+
+- [Capivix Index Methodology](https://docs.coinapi.io/index-calculation-methodologies/capivix-index-methodology.md)
+- [Primkt Index Methodology](https://docs.coinapi.io/index-calculation-methodologies/primkt-index-methodology.md)
+- [Vwap Index Methodology](https://docs.coinapi.io/index-calculation-methodologies/vwap-index-methodology.md)
+
+## Index Maintenance
+
+- [Corporate Action Treatment](https://docs.coinapi.io/index-maintenance/corporate-action-treatment.md)
+- [Rebalancing And Reconstitution](https://docs.coinapi.io/index-maintenance/rebalancing-and-reconstitution.md)
+
+## Index Offerings
+
+- [Capivix Index](https://docs.coinapi.io/index-offerings/capivix-index.md)
+- [Primkt Index](https://docs.coinapi.io/index-offerings/primkt-index.md)
+- [Vwap Index](https://docs.coinapi.io/index-offerings/vwap-index.md)
+
+## Index Policies
+
+- [Complaints Procedure](https://docs.coinapi.io/index-policies/complaints-procedure.md)
+- [Consultation Policy](https://docs.coinapi.io/index-policies/consultation-policy.md)
+- [Correction Policy](https://docs.coinapi.io/index-policies/correction-policy.md)
+- [Exceptional Market Conditions](https://docs.coinapi.io/index-policies/exceptional-market-conditions.md)
+- [Index](https://docs.coinapi.io/index-policies/index.md)
+- [Recalculation Policy](https://docs.coinapi.io/index-policies/recalculation-policy.md)
+
+## Introduction
+
+- [Governance And Oversight](https://docs.coinapi.io/introduction/governance-and-oversight.md)
+- [Index](https://docs.coinapi.io/introduction/index.md)
+- [Key Principles](https://docs.coinapi.io/introduction/key-principles.md)
+- [Purpose And Scope](https://docs.coinapi.io/introduction/purpose-and-scope.md)
+- [Quickstart](https://docs.coinapi.io/introduction/quickstart.md)
+
+## Rest Api
+
+- [Coinapi Indexes Rest Api](https://docs.coinapi.io/rest-api/coinapi-indexes-rest-api.md)
+
+## Websocket Api
+
+- [Endpoints](https://docs.coinapi.io/websocket-api/endpoints.md)
+- [General](https://docs.coinapi.io/websocket-api/general.md)
+- [Index](https://docs.coinapi.io/websocket-api/index.md)
+- [Messages](https://docs.coinapi.io/websocket-api/messages.md)
+

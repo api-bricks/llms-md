@@ -1,0 +1,53 @@
+# Flat Files Api
+
+- [Billing](https://docs.coinapi.io/billing.md)
+- [Data Types](https://docs.coinapi.io/data-types.md)
+- [Index](https://docs.coinapi.io/index.md)
+- [S3 Api](https://docs.coinapi.io/s3-api.md)
+- [Snowflake](https://docs.coinapi.io/snowflake.md)
+
+## Data Types
+
+- [Index](https://docs.coinapi.io/data-types/index.md)
+- [Limitbook](https://docs.coinapi.io/data-types/limitbook.md)
+- [Quotes](https://docs.coinapi.io/data-types/quotes.md)
+- [Trades](https://docs.coinapi.io/data-types/trades.md)
+
+## Rest Api
+
+- [Account Balance](https://docs.coinapi.io/rest-api/account-balance.md)
+- [Add Datastore Endpoint](https://docs.coinapi.io/rest-api/add-datastore-endpoint.md)
+- [Calculate Price For The Order](https://docs.coinapi.io/rest-api/calculate-price-for-the-order.md)
+- [Create Order](https://docs.coinapi.io/rest-api/create-order.md)
+- [Data Storage](https://docs.coinapi.io/rest-api/data-storage.md)
+- [Delete Datastore Endpoint](https://docs.coinapi.io/rest-api/delete-datastore-endpoint.md)
+- [Delete Order](https://docs.coinapi.io/rest-api/delete-order.md)
+- [Estimate Daily Price For The Order](https://docs.coinapi.io/rest-api/estimate-daily-price-for-the-order.md)
+- [List All Datastore Endpoints](https://docs.coinapi.io/rest-api/list-all-datastore-endpoints.md)
+- [List All Datastore Types](https://docs.coinapi.io/rest-api/list-all-datastore-types.md)
+- [List All Exchanges By Exchange Id](https://docs.coinapi.io/rest-api/list-all-exchanges-by-exchange-id.md)
+- [List All Exchanges](https://docs.coinapi.io/rest-api/list-all-exchanges.md)
+- [List All Orders](https://docs.coinapi.io/rest-api/list-all-orders.md)
+- [List All Schemas](https://docs.coinapi.io/rest-api/list-all-schemas.md)
+- [List Of Symbols For The Exchange](https://docs.coinapi.io/rest-api/list-of-symbols-for-the-exchange.md)
+- [Metadata](https://docs.coinapi.io/rest-api/metadata.md)
+- [Orders](https://docs.coinapi.io/rest-api/orders.md)
+- [Push Api](https://docs.coinapi.io/rest-api/push-api.md)
+
+## S3 Api
+
+- [Authentication](https://docs.coinapi.io/s3-api/authentication.md)
+- [Index](https://docs.coinapi.io/s3-api/index.md)
+- [Sdk](https://docs.coinapi.io/s3-api/sdk.md)
+
+## Snowflake
+
+- [Assets](https://docs.coinapi.io/snowflake/assets.md)
+- [Exchange Rates](https://docs.coinapi.io/snowflake/exchange-rates.md)
+- [Index Data](https://docs.coinapi.io/snowflake/index-data.md)
+- [Index](https://docs.coinapi.io/snowflake/index.md)
+- [Ohlcv](https://docs.coinapi.io/snowflake/ohlcv.md)
+- [Orderbooks](https://docs.coinapi.io/snowflake/orderbooks.md)
+- [Quotes](https://docs.coinapi.io/snowflake/quotes.md)
+- [Trades](https://docs.coinapi.io/snowflake/trades.md)
+

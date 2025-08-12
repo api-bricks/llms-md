@@ -1,0 +1,14 @@
+# Api Usage And Limits
+
+- [Api Usage Limits](https://docs.coinapi.io/API-Usage-Limits.md)
+- [How Can I Check My Historical Api Usage With Coinapi](https://docs.coinapi.io/How-can-I-check-my-historical-API-usage-with-CoinAPI.md)
+- [How Can I Retrieve More Than 100 Items](https://docs.coinapi.io/How-can-I-retrieve-more-than-100-items.md)
+- [How Do I Calculate The Number Of Requests](https://docs.coinapi.io/How-do-I-calculate-the-number-of-requests.md)
+- [How Do I Enable Overage](https://docs.coinapi.io/How-do-I-enable-overage.md)
+- [How Does Coinapi Credit System Work](https://docs.coinapi.io/How-does-CoinAPI-credit-system-work.md)
+- [What Happens If I Exceed My Daily Rest Api Request Limit](https://docs.coinapi.io/What-happens-if-I-exceed-my-daily-REST-API-request-limit.md)
+- [Why Do Some Coinapi Responses Not Include Rate Limit Headers](https://docs.coinapi.io/Why-do-some-CoinAPI-responses-not-include-rate-limit-headers.md)
+- [Why Does Using Limit 1 Still Count As 1 Full Request](https://docs.coinapi.io/Why-does-using-limit-1-still-count-as-1-full-request.md)
+- [Why Is My Usage So High](https://docs.coinapi.io/Why-is-my-usage-so-high.md)
+- [Index](https://docs.coinapi.io/index.md)
+

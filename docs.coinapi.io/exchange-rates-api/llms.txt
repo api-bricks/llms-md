@@ -1,0 +1,49 @@
+# Exchange Rates Api
+
+- [Authentication](https://docs.coinapi.io/authentication.md)
+- [How To Guides](https://docs.coinapi.io/how-to-guides.md)
+- [Index](https://docs.coinapi.io/index.md)
+- [Jsonrpc Api](https://docs.coinapi.io/jsonrpc-api.md)
+- [Mcp](https://docs.coinapi.io/mcp.md)
+- [Websocket](https://docs.coinapi.io/websocket.md)
+
+## How To Guides
+
+- [Acquire Exchange Rates With Different Programming Languages](https://docs.coinapi.io/how-to-guides/acquire-exchange-rates-with-different-programming-languages.md)
+- [Build Cryptocurrency Portfolio Tracker Using React](https://docs.coinapi.io/how-to-guides/build-cryptocurrency-portfolio-tracker-using-react.md)
+- [Creating Historical Crypto Price Chart Using Coinapi And D3 Js](https://docs.coinapi.io/how-to-guides/creating-historical-crypto-price-chart-using-CoinAPI-and-D3-js.md)
+- [Fetching Market Data With Knime](https://docs.coinapi.io/how-to-guides/fetching-market-data-with-knime.md)
+- [Import Data To Google Sheets Excel](https://docs.coinapi.io/how-to-guides/import-data-to-google-sheets-excel.md)
+- [Index](https://docs.coinapi.io/how-to-guides/index.md)
+
+## Rest Api Historical
+
+- [Exchange Rates Historical Rest Api](https://docs.coinapi.io/rest-api-historical/exchange-rates-historical-rest-api.md)
+- [Exchange Rates](https://docs.coinapi.io/rest-api-historical/exchange-rates.md)
+- [Get All Current Rates](https://docs.coinapi.io/rest-api-historical/get-all-current-rates.md)
+- [Get Specific Rate](https://docs.coinapi.io/rest-api-historical/get-specific-rate.md)
+- [List All Asset Icons](https://docs.coinapi.io/rest-api-historical/list-all-asset-icons.md)
+- [List All Assets By Asset Id](https://docs.coinapi.io/rest-api-historical/list-all-assets-by-asset-id.md)
+- [List All Assets](https://docs.coinapi.io/rest-api-historical/list-all-assets.md)
+- [Metadata](https://docs.coinapi.io/rest-api-historical/metadata.md)
+- [Timeseries Data](https://docs.coinapi.io/rest-api-historical/timeseries-data.md)
+- [Timeseries Periods](https://docs.coinapi.io/rest-api-historical/timeseries-periods.md)
+
+## Rest Api Realtime
+
+- [Exchange Rates Realtime Rest Api](https://docs.coinapi.io/rest-api-realtime/exchange-rates-realtime-rest-api.md)
+- [Exchange Rates](https://docs.coinapi.io/rest-api-realtime/exchange-rates.md)
+- [Get All Current Rates](https://docs.coinapi.io/rest-api-realtime/get-all-current-rates.md)
+- [Get Specific Rate](https://docs.coinapi.io/rest-api-realtime/get-specific-rate.md)
+- [List All Asset Icons](https://docs.coinapi.io/rest-api-realtime/list-all-asset-icons.md)
+- [List All Assets By Asset Id](https://docs.coinapi.io/rest-api-realtime/list-all-assets-by-asset-id.md)
+- [List All Assets](https://docs.coinapi.io/rest-api-realtime/list-all-assets.md)
+- [Metadata](https://docs.coinapi.io/rest-api-realtime/metadata.md)
+
+## Websocket
+
+- [Endpoints](https://docs.coinapi.io/websocket/endpoints.md)
+- [General](https://docs.coinapi.io/websocket/general.md)
+- [Index](https://docs.coinapi.io/websocket/index.md)
+- [Messages](https://docs.coinapi.io/websocket/messages.md)
+

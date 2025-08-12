@@ -1,0 +1,9 @@
+# How To Guides
+
+- [Acquire Exchange Rates With Different Programming Languages](https://docs.coinapi.io/acquire-exchange-rates-with-different-programming-languages.md)
+- [Build Cryptocurrency Portfolio Tracker Using React](https://docs.coinapi.io/build-cryptocurrency-portfolio-tracker-using-react.md)
+- [Creating Historical Crypto Price Chart Using Coinapi And D3 Js](https://docs.coinapi.io/creating-historical-crypto-price-chart-using-CoinAPI-and-D3-js.md)
+- [Fetching Market Data With Knime](https://docs.coinapi.io/fetching-market-data-with-knime.md)
+- [Import Data To Google Sheets Excel](https://docs.coinapi.io/import-data-to-google-sheets-excel.md)
+- [Index](https://docs.coinapi.io/index.md)
+

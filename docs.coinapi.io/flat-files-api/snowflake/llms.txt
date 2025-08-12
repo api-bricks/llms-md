@@ -1,0 +1,11 @@
+# Snowflake
+
+- [Assets](https://docs.coinapi.io/assets.md)
+- [Exchange Rates](https://docs.coinapi.io/exchange-rates.md)
+- [Index Data](https://docs.coinapi.io/index-data.md)
+- [Index](https://docs.coinapi.io/index.md)
+- [Ohlcv](https://docs.coinapi.io/ohlcv.md)
+- [Orderbooks](https://docs.coinapi.io/orderbooks.md)
+- [Quotes](https://docs.coinapi.io/quotes.md)
+- [Trades](https://docs.coinapi.io/trades.md)
+

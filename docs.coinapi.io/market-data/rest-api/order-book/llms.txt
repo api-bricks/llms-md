@@ -1,0 +1,9 @@
+# Order Book
+
+- [Coinapi Market Data Rest Api](https://docs.coinapi.io/coinapi-market-data-rest-api.md)
+- [Current Depth Of The Order Book](https://docs.coinapi.io/current-depth-of-the-order-book.md)
+- [Get Current Order Book](https://docs.coinapi.io/get-current-order-book.md)
+- [Historical Data](https://docs.coinapi.io/historical-data.md)
+- [Index](https://docs.coinapi.io/index.md)
+- [Latest Data](https://docs.coinapi.io/latest-data.md)
+

@@ -1,0 +1,6 @@
+# Latency Faq
+
+- [What Influences Latency](https://docs.coinapi.io/What-influences-latency.md)
+- [How To Reduce Market Data Apis Latency](https://docs.coinapi.io/how-to-reduce-market-data-apis-latency.md)
+- [Index](https://docs.coinapi.io/index.md)
+
